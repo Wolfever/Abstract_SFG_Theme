@@ -1,0 +1,130 @@
+﻿Provider: John Wiley & Sons, Ltd
+Content:text/plain; charset="UTF-8"
+
+TY  - JOUR
+AU  - Higgins, Christina
+AU  - Ponte, Eva
+TI  - Legitimating Multilingual Teacher Identities in the Mainstream Classroom
+JO  - The Modern Language Journal
+JA  - The Modern Language Journal
+VL  - 101
+IS  - S1
+SN  - 1540-4781
+UR  - http://dx.doi.org/10.1111/modl.12372
+DO  - 10.1111/modl.12372
+SP  - 15
+EP  - 28
+KW  - teacher identities
+KW  - multilingual language learners
+KW  - professional development
+KW  - mainstream classrooms
+PY  - 2017
+AB  - This article explores the identities of a group of elementary teachers who participated in a professional development (PD) project on multilingual language learners.1 We study how the participating teachers drew on different aspects of their identities to respond to encouragement to increase their attention to students’ diverse multilingual repertoires in classroom practices. Drawing on research that has sought to open up more spaces for multilingualism in North American, English-medium schooling, the teachers were invited to create multilingual print environments (Lotherington, ), use group work to increase oral participation among multilingual learners, invite students to take on the role of ‘language teacher’ (Cary, ), and encourage students to author multilingual identity texts (Cummins & Early, ). As the teachers grappled with these ideas, we collected data in the form of classroom observation notes, interviews, assignments, and WebCT posts. Using Gee's (2001) framework for identity, our analysis sheds light on how the teachers enacted their professional identities as they worked to put the PD concepts and recommendations into practice. Our analysis reveals how the teachers’ own linguistic histories strongly shaped their views about multilingualism in schools, but it also demonstrates that a formally sanctioned opportunity to experiment with multilingual pedagogies opened up new spaces for critical self-reflection about the links among languages, teachers’ identities, and academic engagement for multilingual learners.
+ER  - 
+
+TY  - JOUR
+AU  - Zheng, Xuan
+TI  - Translingual Identity as Pedagogy: International Teaching Assistants of English in College Composition Classrooms
+JO  - The Modern Language Journal
+JA  - The Modern Language Journal
+VL  - 101
+IS  - S1
+SN  - 1540-4781
+UR  - http://dx.doi.org/10.1111/modl.12373
+DO  - 10.1111/modl.12373
+SP  - 29
+EP  - 44
+KW  - translingual teacher identity
+KW  - identity as pedagogy
+KW  - international teaching assistants
+KW  - college composition
+PY  - 2017
+AB  - The article aims to expand the scope of research on international teaching assistants (ITAs) by foregrounding identities as pedagogical resources. Employing an ethnographic multiple case study approach, the study examined the experiences of 2 English department ITAs in learning to teach College Composition classes at a public university in the United States. Guided by Morgan's () “identity as pedagogy” and Canagarajah's () conceptualization of “translingualism,” the study found that the ITAs’ becoming of translingual teachers was constrained by their perceived linguistic membership and competence, which intersected with other identity categories such as accent, nationality, ethnicity, and religion. In addition, they adopted different orientations to their multilingualism to manage the challenges of teaching diverse groups of students, and were able to deploy various identities as pedagogy. The findings suggest that the ability to re-imagine oneself as a translingual and to draw on translingual identities to enact a translingual pedagogy should not be taken for granted: Only when the ITAs become aware and critical of the link between identity and pedagogy can they utilize their translingual identity-as-pedagogy more fully in ways that benefit both the teacher and the diverse student body.
+ER  - 
+
+TY  - JOUR
+AU  - Stranger–Johannessen, Espen
+AU  - Norton, Bonny
+TI  - The African Storybook and Language Teacher Identity in Digital Times
+JO  - The Modern Language Journal
+JA  - The Modern Language Journal
+VL  - 101
+IS  - S1
+SN  - 1540-4781
+UR  - http://dx.doi.org/10.1111/modl.12374
+DO  - 10.1111/modl.12374
+SP  - 45
+EP  - 60
+KW  - teacher identity
+KW  - investment
+KW  - technology
+KW  - Uganda
+KW  - multilingual literacy
+KW  - education
+PY  - 2017
+AB  - The African Storybook (ASb) is a digital initiative that promotes multilingual literacy for African children by providing openly licenced children's stories in multiple African languages, as well as English, French, and Portuguese. Based on Darvin and Norton's () model of identity and investment, and drawing on the Douglas Fir Group's () framework for second language acquisition, this study investigates Ugandan primary school teachers’ investment in the ASb, its impact on their teaching, and their changing identities. The study was conducted in a rural Ugandan school from June to December 2014, and the data, which focus on one key participant, Monica, were drawn from field notes, classroom observations, interview transcripts, and questionnaires, which were coded using retroductive coding. The findings indicate that through the ASb initiative and its stories, Monica and other teachers began to imagine themselves as writers, readers, and teachers of stories, reframing what it means to be a reading teacher. Teachers’ shifts of identity were indexical of their enhanced social and cultural capital as they engaged with the ASb, notwithstanding ideological constraints associated with mother tongue usage, assessment practices, and teacher supervision. The authors conclude that the enhancement of language teacher identity has important implications for the promotion of multilingual literacy for young learners in African communities.
+ER  - 
+
+TY  - JOUR
+AU  - Barkhuizen, Gary
+TI  - Investigating Language Tutor Social Inclusion Identities
+JO  - The Modern Language Journal
+JA  - The Modern Language Journal
+VL  - 101
+IS  - S1
+SN  - 1540-4781
+UR  - http://dx.doi.org/10.1111/modl.12369
+DO  - 10.1111/modl.12369
+SP  - 61
+EP  - 75
+KW  - tutor identities
+KW  - short stories
+KW  - social inclusion
+KW  - private tutoring
+PY  - 2017
+AB  - This article explores the identities of tutors working in one-to-one instructional arrangements, which entail a tutor and an adult English learner working together to meet the particular language learning needs and goals of the learner. The tutors in this study are matched with their partners through an organization in New Zealand which aims to provide a community-based service that supports settlement for immigrants and refugees through English. The findings are presented through an analysis of a series of ‘short stories,’ short excerpts of data extracted from a larger set of interviews with the tutors. They are analyzed thematically for their content. In making sense of the content, attention is necessarily paid to the narrators’ orientation within micro, meso, and macro spatial and temporal contexts; stories, Stories, and STORIES. Specifically, the tutors’ identities are examined as social inclusion tutor identities; that is, identity is conceptualized narratively as co-constructed and situated in the (short) stories they tell about their lived and imagined tutoring social inclusion experiences. In the case of these tutors, their experiences include primarily and intimately the lives of their refugee and immigrant English learners.
+ER  - 
+
+TY  - JOUR
+AU  - Wolff, Dominik
+AU  - De Costa, Peter I.
+TI  - Expanding the Language Teacher Identity Landscape: An Investigation of the Emotions and Strategies of a NNEST
+JO  - The Modern Language Journal
+JA  - The Modern Language Journal
+VL  - 101
+IS  - S1
+SN  - 1540-4781
+UR  - http://dx.doi.org/10.1111/modl.12370
+DO  - 10.1111/modl.12370
+SP  - 76
+EP  - 90
+KW  - teacher identity
+KW  - NNEST
+KW  - emotions
+KW  - strategies
+KW  - reflexivity
+PY  - 2017
+AB  - This article aims to broaden the scope of language teacher identity research by investigating the emotional demands on teachers-in-training and nonnative English-speaking teachers (NNESTs) in particular. We examined how our focal NNEST participant, Puja, was confronted with and successfully negotiated numerous emotional challenges in her first year in a U.S. MATESOL program. Furthermore, we investigated the impact emotions had on her overall teacher identity development and how her growth as an educator was evident in her use of strategies. Following past research that viewed teacher emotions through a narrative lens (e.g., Barkhuizen, Benson, & Chik, ; De Costa, ), we created Puja's ‘story’ by analyzing data sources that included interviews, teaching observations, journal entries, and stimulated verbal and written reports. Our narrative construction focuses on the reflexive relationship between Puja's emotions and her subsequent identity development. While we acknowledge that emotional tensions are part of teachers’ identity development (and potentially more so for NNESTs), Puja largely navigated emotional challenges in a positive manner. The article concludes with a call for new pedagogical models that help teachers develop their reflexivity and negotiate potential emotion-related challenges they might encounter.
+ER  - 
+
+TY  - JOUR
+AU  - Miller, Elizabeth R.
+AU  - Morgan, Brian
+AU  - Medina, Adriana L.
+TI  - Exploring Language Teacher Identity Work as Ethical Self-Formation
+JO  - The Modern Language Journal
+JA  - The Modern Language Journal
+VL  - 101
+IS  - S1
+SN  - 1540-4781
+UR  - http://dx.doi.org/10.1111/modl.12371
+DO  - 10.1111/modl.12371
+SP  - 91
+EP  - 105
+KW  - language teacher identity
+KW  - identity work
+KW  - ethical self-formation
+KW  - Foucault
+PY  - 2017
+AB  - In this article, we treat language teacher identity as foundational to educational practice and see Foucault's (, ) notion of ethical self-formation, and its adoption in teacher education research by Clarke (, , ), as providing a potential vehicle for understanding the development of teacher agency and critical identity work. We use the 4 axes of Foucault's () approach to ethical self-formation, as captured in Clarke's () “Diagram for Doing Identity Work,” in exploring a case study of an elementary reading and language arts teacher who worked in a multilingual inclusion classroom with exceptional (i.e., learning disabled) and mainstreamed students. We consider the relevance of how this teacher's identity developed over the course of 7 interviews, spanning 9 years, for teacher identity work in language teacher education (LTE). In doing so, we foreground the critical as well as the dangerous potential of all teachers’ identity work and argue for the importance of nurturing teachers’ reflective, action-oriented identity practices as well as fostering a self-awareness of language teachers as ethical subjects “acting on others” (Foucault, , p. 262) even as they struggle within power relations that press upon educational practices and discourses.
+ER  - 

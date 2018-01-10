@@ -1,0 +1,177 @@
+﻿Provider: John Wiley & Sons, Ltd
+Content:text/plain; charset="UTF-8"
+
+TY  - JOUR
+AU  - HIVER, PHIL
+AU  - AL-HOORIE, ALI H.
+TI  - A Dynamic Ensemble for Second Language Research: Putting Complexity Theory Into Practice
+JO  - The Modern Language Journal
+JA  - The Modern Language Journal
+VL  - 100
+IS  - 4
+SN  - 1540-4781
+UR  - http://dx.doi.org/10.1111/modl.12347
+DO  - 10.1111/modl.12347
+SP  - 741
+EP  - 756
+KW  - complexity theory
+KW  - dynamic ensemble
+KW  - methodology
+KW  - research design
+KW  - transdisciplinarity
+PY  - 2016
+AB  - In this article, we introduce a template of methodological considerations, termed “the dynamic ensemble,” for scholars doing or evaluating empirical second language development (SLD) research within a complexity/dynamic systems theory (CDST) framework. Given that CDST principles have yielded significant insight into SLD and have become central to the concerns of applied linguists in many domains, we propose the need for a practical blueprint to ensure compatibility between its theoretical tenets and empirical SLD research designs. Building on “complexity thought modeling” (Larsen–Freeman & Cameron, ), we present a practical catalog of 9 considerations intended to inform research design at multiple stages. We contextualize the 9 considerations of the dynamic ensemble by discussing how these have been framed and addressed within one previous CDST study. Finally, we address the issue of what practical implementation of this dynamic ensemble would entail and introduce several case-based methods for building off of the considerations in our dynamic ensemble. We hope that this user guide will help orient researchers interested in working within a complexity framework and spur continued methodological discussion in the field.
+ER  - 
+
+TY  - JOUR
+AU  - UMINO, TAE
+AU  - BENSON, PHIL
+TI  - Communities of Practice in Study Abroad: A Four-Year Study of an Indonesian Student's Experience in Japan
+JO  - The Modern Language Journal
+JA  - The Modern Language Journal
+VL  - 100
+IS  - 4
+SN  - 1540-4781
+UR  - http://dx.doi.org/10.1111/modl.12351
+DO  - 10.1111/modl.12351
+SP  - 757
+EP  - 774
+KW  - study abroad
+KW  - community of practice
+KW  - longitudinal study
+KW  - photo-elicitation
+PY  - 2016
+AB  - This 4-year case study used a photo-elicitation approach to language learning history research in an individual case study of an Indonesian student's experiences of communities of practice while studying abroad in Japan. The study showed how the student's opportunities for interaction in Japanese were at first limited by his peripheral participation in institutionally organized communities of practice that consisted of international students and local Japanese support staff. Toward the end of his 4 years, however, the student succeeded in becoming a central participant in an informal self-organized community of practice that consisted mainly of local Japanese friends, who were more supportive of his interactions and language development. The study also shows how earlier experiences of peripheral participation scaffolded the student's later experience as a central participant. Photographs taken by the student over the 4 years were both a valuable source of data on the nature of his participation in communities and a stimulus to reflection that enriched the language learning history data.
+ER  - 
+
+TY  - JOUR
+AU  - TAGUCHI, NAOKO
+AU  - XIAO, FENG
+AU  - LI, SHUAI
+TI  - Effects of Intercultural Competence and Social Contact on Speech Act Production in a Chinese Study Abroad Context
+JO  - The Modern Language Journal
+JA  - The Modern Language Journal
+VL  - 100
+IS  - 4
+SN  - 1540-4781
+UR  - http://dx.doi.org/10.1111/modl.12349
+DO  - 10.1111/modl.12349
+SP  - 775
+EP  - 796
+KW  - pragmatic competence
+KW  - intercultural competence
+KW  - study abroad
+KW  - social contact
+KW  - L2 Chinese
+PY  - 2016
+AB  - This study investigated the effects of intercultural competence and amount of social contact in the development of pragmatic knowledge. All these variables were time-varying variables and measured twice over a 3-month study abroad. Participants were 109 American college students studying Chinese in a semester study-abroad program in Beijing. Using Kelley & Meyers's (1995) instrument, intercultural competence—defined as one's potential to succeed in intercultural adjustment—was measured by 4 factors: emotional resilience, flexibility/openness, perceptual acuity, and personal autonomy. A survey was used to assess the amount of time spent on a variety of social activities in Chinese. Pragmatic knowledge was measured with a spoken task, which assessed participants’ ability to produce speech acts (k = 24). Latent Growth Curve Modeling showed that cross-cultural adaptability and social contact, when combined, explained 26% of pragmatic gains. Cross-cultural adaptability had no significant direct effect to speech acts gains: It had indirect effects through social contact.
+ER  - 
+
+TY  - JOUR
+AU  - JING–SCHMIDT, ZHUO
+AU  - CHEN, JING–YUN
+AU  - ZHANG, ZHEN
+TI  - Identity Development in the Ancestral Homeland: A Chinese Heritage Perspective
+JO  - The Modern Language Journal
+JA  - The Modern Language Journal
+VL  - 100
+IS  - 4
+SN  - 1540-4781
+UR  - http://dx.doi.org/10.1111/modl.12348
+DO  - 10.1111/modl.12348
+SP  - 797
+EP  - 812
+KW  - Chinese heritage language students
+KW  - identity
+KW  - study abroad
+KW  - ancestral homeland
+PY  - 2016
+AB  - This study examines the lived experiences of identity of 4 Chinese Heritage Language (CHL) students participating in a year-long study abroad program in China. In a narrative inquiry, we draw on 2 mutually complementary theoretical frameworks—the Theory of Communities of Practice (Wenger, 1998) and Self-Categorization Theory (Turner et al., 1987)—to shed light on the individual trajectories of identity development, which cannot be fully unveiled by proficiency assessment. By exploring the behavioral, socio-psychological, and discursive dimensions of CHL identity in the ancestral homeland, which is largely overlooked in CHL research, this study contributes to a more comprehensive theory of CHL development. It also provides empirical grounding for meaningful intervention in study abroad programming and pre-departure preparation.
+ER  - 
+
+TY  - JOUR
+AU  - DAVIN, KRISTIN J.
+TI  - Classroom Dynamic Assessment: A Critical Examination of Constructs and Practices
+JO  - The Modern Language Journal
+JA  - The Modern Language Journal
+VL  - 100
+IS  - 4
+SN  - 1540-4781
+UR  - http://dx.doi.org/10.1111/modl.12352
+DO  - 10.1111/modl.12352
+SP  - 813
+EP  - 829
+KW  - sociocultural theory
+KW  - dynamic assessment
+KW  - mediation
+KW  - zone of proximal development
+PY  - 2016
+AB  - This article explores the implementation of dynamic assessment (DA) in an elementary school foreign language classroom by considering its theoretical basis and its applicability to second language (L2) teaching, learning, and development. In existing applications of L2 classroom DA, errors serve as a window into learners’ instructional needs and provide opportunities for the teacher to mediate, prompting learners to reformulate their utterance. The investigation presented here draws on data from a combination of classroom DA and small-group work in a unit focused on Spanish interrogatives. Extending earlier studies (Davin, ; Davin & Donato, ), it critically evaluates the extent to which the teacher's DA records, the heart of DA assessment, provide sufficiently robust evidence for central claims in DA for the dynamic link between assessment and teaching in order to advance learner development. It does so by contextualizing the teacher's record with transcripts from small-group work that alternated with DA, and with a microgenetic analysis of two learners across both DA and small-group work. It concludes that whole classroom applications of DA will require considerable expertise on the part of teachers that would have to become part of teacher education programs. Equally importantly, it will benefit from being anchored in an explicitly meaning-oriented theory of language.
+ER  - 
+
+TY  - JOUR
+AU  - MORANSKI, KARA
+AU  - KIM, FREDERIC
+TI  - ‘Flipping’ Lessons in a Multi-Section Spanish Course: Implications for Assigning Explicit Grammar Instruction Outside of the Classroom
+JO  - The Modern Language Journal
+JA  - The Modern Language Journal
+VL  - 100
+IS  - 4
+SN  - 1540-4781
+UR  - http://dx.doi.org/10.1111/modl.12366
+DO  - 10.1111/modl.12366
+SP  - 830
+EP  - 852
+KW  - flipped classroom
+KW  - inverted classroom
+KW  - Spanish
+KW  - Spanish se  
+KW  - sociocultural theory
+PY  - 2016
+AB  - Flipped or inverted classroom (IC) models are promising for foreign language instruction in that they appear to promote well-regarded practices that bridge both sociocultural and cognitive theoretical frameworks, such as allowing for higher degrees of learner agency and facilitating deeper levels of processing. To date, the majority of work on IC models for language learning has been instructional rather than empirical in nature. By contrast, this study examined the impact of IC lessons on 14 intact third-semester Spanish classes (N = 213). Instructors were randomly assigned to either an IC or an in-class presentational (CP) condition for lessons and accompanying assignments on 2 uses of the Spanish pronoun se. An attitudinal inventory indicated that learners in the IC condition rated their assignments significantly higher in terms of perceived comfort, enjoyment, and subsequent confidence in the material. However, regression analysis showed that ratings were stratified based upon several predictor variables. For measures of L2 knowledge, learners in the IC condition performed significantly better than those in the CP when identifying grammatical uses of the target structure on a grammaticality judgment test. No significant differences were found between the groups’ performance on a rule description task or a chapter test. Implications for implementing IC models are discussed.
+ER  - 
+
+TY  - JOUR
+AU  - ALDERSON, J. CHARLES
+AU  - NIEMINEN, LEA
+AU  - HUHTA, ARI
+TI  - Characteristics of Weak and Strong Readers in a Foreign Language
+JO  - The Modern Language Journal
+JA  - The Modern Language Journal
+VL  - 100
+IS  - 4
+SN  - 1540-4781
+UR  - http://dx.doi.org/10.1111/modl.12367
+DO  - 10.1111/modl.12367
+SP  - 853
+EP  - 879
+KW  - reading in a foreign language
+KW  - weak and strong readers
+KW  - language skills
+KW  - cognitive skills
+KW  - motivation
+KW  - diagnostic assessment
+PY  - 2016
+AB  - This study investigated the cognitive (first language [L1] and foreign language [FL]), linguistic (L1 and FL), and motivational characteristics of weak FL readers in contrast to strong readers in 3 groups of L1 Finnish-speaking learners of English, aged 10, 14, and 17 years. This cross-sectional study covered a wide range of potential correlates, and therefore predictors, of FL reading based on previous research on reading in first, second (L2), and foreign languages. The weakest and strongest FL readers (1 standard deviation below or above the mean reading score) in each age group were selected for the comparisons reported in this article. The FL (English) skills other than reading were found to be the clearest distinguishing feature between weak and strong FL readers. However, L1 and cognitive skills in L1 and FL, as well as certain dimensions of motivation to use and learn the FL, were also found to separate the 2 reading groups. The implications of the findings for 2 different hypotheses about the nature of FL reading—the Threshold Hypothesis and the Linguistic Coding Differences Hypothesis—are discussed, as well as the implications for the diagnosis of strengths and weaknesses in reading in an FL.
+ER  - 
+
+TY  - JOUR
+AU  - HAGIWARA, AKIKO
+TI  - The Role of Phonology and Phonetics in L2 Kanji Learning
+JO  - The Modern Language Journal
+JA  - The Modern Language Journal
+VL  - 100
+IS  - 4
+SN  - 1540-4781
+UR  - http://dx.doi.org/10.1111/modl.12350
+DO  - 10.1111/modl.12350
+SP  - 880
+EP  - 897
+KW  - logography
+KW  - L2 Japanese
+KW  - phonetic radicals
+KW  - direct route
+KW  - phonetic route
+PY  - 2016
+AB  - This study explores whether emphasizing the phonetic components of kanji, Chinese characters used in Japanese, facilitates second language (L2) learners’ novel character learning. Previous L2 studies on Chinese characters indicate that phonology plays a major part in word identification. However, this view remains controversial, because the role of phonetic radicals has not been closely examined. In this study, 70 learners of Japanese, whose first language (L1) is alphabetic, were divided into 3 learning condition groups: pronunciation–hearing and read aloud, pronunciation–hearing, and no pronunciation–hearing. All learners were repeatedly exposed to unfamiliar kanji, some of which included visually emphasized phonetic radicals to help the learners identify characters. Learning was measured by the ability to select the target kanji from visually similar alternatives and to write their meanings in English. The results revealed no significant difference in learning kanji, either in terms of meaning production or selection of the correct orthographic representation across groups. The pronunciation–hearing group successfully related phonetic radicals with the sounds represented by the radical, but this skill did not contribute to better learning of novel kanji. The results support the direct route view, suggesting that logography is learned by extracting meaning directly from orthography regardless of phonological mediation.
+ER  - 

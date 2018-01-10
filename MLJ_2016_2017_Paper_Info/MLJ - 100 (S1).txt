@@ -1,0 +1,244 @@
+﻿Provider: John Wiley & Sons, Ltd
+Content:text/plain; charset="UTF-8"
+
+TY  - JOUR
+AU  - The Douglas Fir Group
+TI  - A Transdisciplinary Framework for SLA in a Multilingual World
+JO  - The Modern Language Journal
+JA  - The Modern Language Journal
+VL  - 100
+IS  - S1
+SN  - 1540-4781
+UR  - http://dx.doi.org/10.1111/modl.12301
+DO  - 10.1111/modl.12301
+SP  - 19
+EP  - 47
+PY  - 2016
+ER  - 
+
+TY  - JOUR
+AU  - Wiley, Terrence G.
+AU  - García, Ofelia
+TI  - Language Policy and Planning in Language Education: Legacies, Consequences, and Possibilities
+JO  - The Modern Language Journal
+JA  - The Modern Language Journal
+VL  - 100
+IS  - S1
+SN  - 1540-4781
+UR  - http://dx.doi.org/10.1111/modl.12303
+DO  - 10.1111/modl.12303
+SP  - 48
+EP  - 63
+KW  - bilingual/dual education
+KW  - bilingualism/multilingualism
+KW  - education policy
+KW  - language policy
+KW  - translanguaging
+PY  - 2016
+AB  - This article considers the relevance of language policy and planning (LPP) for language education in the United States in relation to the country's longstanding and continuing multilingualism. In reflecting on the U.S. context, one striking feature is the absence of a guiding overarching explicit national educational language policy. Language policies and practices may either promote or restrict the teaching of languages. Thus, whether having such a policy would be desirable for promoting the learning of languages depends on a number of factors such as the features of the policy and the extent to which it was adequately resourced, understood, valued, and implemented effectively, just to mention a few. Explicit language planning and policy making in the United States−when it does occur−tends to be done at the state, local, or institutional levels, or within rather limited domains of federal priorities, such as those related to defense or national security. Beyond formal policies, implicit language practices sometimes have more influence on language behavior. Even when policies are intended to promote languages, they may not always be well conceived, received, resourced, or implemented. Given some of these issues, it is useful to consider the role of agency in language planning and policy (LPP). Even when guided by national or state top-down policy agendas, policies can be interpreted and reinterpreted, by policy intermediaries, agents, administrators, or arbiters (Johnson, ). Moreover, within the context of school language policies, at the level of implementation, teachers, parents, and the students themselves help to determine the effectiveness of policies in practice (Menken & García, ). Beyond the schools, parents and stakeholders in the community can play significant roles in creating practices that have the force of policy from the bottom up. Given these considerations, this article weighs the role of policy and the legacy of past policies and their consequences; assesses some of the strengths and weaknesses of current policies and practices, both in schools and families and communities; and considers prospects for a more promising future that involves embracing the fundamental multilingualism of U.S. society, communities, and families. In so doing, the article reflects on alternatives to U.S. language education policy that would transcend national conceptions of languages so as to leverage speakers’ actual linguistic competence.
+ER  - 
+
+TY  - JOUR
+AU  - Chun, Dorothy
+AU  - Kern, Richard
+AU  - Smith, Bryan
+TI  - Technology in Language Use, Language Teaching, and Language Learning
+JO  - The Modern Language Journal
+JA  - The Modern Language Journal
+VL  - 100
+IS  - S1
+SN  - 1540-4781
+UR  - http://dx.doi.org/10.1111/modl.12302
+DO  - 10.1111/modl.12302
+SP  - 64
+EP  - 80
+KW  - technology
+KW  - multiliteracies
+KW  - computer-assisted language learning
+KW  - electronically mediated communication
+KW  - affordances
+PY  - 2016
+AB  - This article offers a capacious view of technology to suggest broad principles relating technology and language use, language teaching, and language learning. The first part of the article considers some of the ways that technological media influence contexts and forms of expression and communication. In the second part, a set of heuristic questions is proposed to help guide language teachers and researchers in determining how to incorporate technology into their teaching practice or research agenda and evaluate its suitability and impact. These questions are based primarily on the goal of helping learners to pay critical attention to the culturally encoded connections among forms, contexts, meanings, and ideologies that they will encounter and produce in different mediums, both traditional and new.
+ER  - 
+
+TY  - JOUR
+AU  - Leung, Constant
+AU  - Scarino, Angela
+TI  - Reconceptualizing the Nature of Goals and Outcomes in Language/s Education
+JO  - The Modern Language Journal
+JA  - The Modern Language Journal
+VL  - 100
+IS  - S1
+SN  - 1540-4781
+UR  - http://dx.doi.org/10.1111/modl.12300
+DO  - 10.1111/modl.12300
+SP  - 81
+EP  - 95
+KW  - language teaching and learning goals
+KW  - language learning and teaching outcomes
+KW  - communicative competence
+KW  - multilinguality
+PY  - 2016
+AB  - Transformations associated with the increasing speed, scale, and complexity of mobilities, together with the information technology revolution, have changed the demography of most countries of the world and brought about accompanying social, cultural, and economic shifts (Heugh, ). This complex diversity has changed the very nature of communication within and across languages, in society in general, and in education. These changes in turn require a reconceptualization of our approach to language/s education in ways that recognize a diversity of goals for people from different backgrounds, people who are learning a variety of languages in diverse settings and who may be interested in developing different capabilities and achieving different outcomes. In this article, we address the reconceptualization of the goals and outcomes of learning additional languages and processes for their formulation and realization. We will make explicit the educational values that underpin our position. Recognizing the immense diversity that the learning of additional languages in diverse contexts encompasses, our consideration is necessarily conceptual. The point of departure for our discussion is communicative language teaching, the dominant paradigm for language teaching for the past 40 years. We briefly trace its historical development and provide an account of some of the conceptual and theoretical expansions since its initial formulation. In light of this expansion we then discuss goals for learning additional languages by: (a) reaffirming the multilingual character of communication and learning to communicate, focusing on the exchange of meaning, (b) (re-)inserting the importance of personal development and aesthetics, and (c) recognizing the centrality of reflectivity and reflexivity in communication and learning to communicate. We conclude with a set of principles that are intended to capture the expanded nature of goals and their rendering for the purposes of teaching and learning.
+ER  - 
+
+TY  - JOUR
+AU  - Kibler, Amanda K.
+AU  - Valdés, Guadalupe
+TI  - Conceptualizing Language Learners: Socioinstitutional Mechanisms and their Consequences
+JO  - The Modern Language Journal
+JA  - The Modern Language Journal
+VL  - 100
+IS  - S1
+SN  - 1540-4781
+UR  - http://dx.doi.org/10.1111/modl.12310
+DO  - 10.1111/modl.12310
+SP  - 96
+EP  - 116
+KW  - learner
+KW  - language curricularization
+KW  - learner categorization/classification
+KW  - second/foreign language
+KW  - heritage language
+KW  - long-term English learner
+KW  - L2 user
+PY  - 2016
+AB  - Through examination of one recently manufactured term for language learners (Long-term English Learners) and review of a century of MLJ articles, we examine varying ‘socioinstitutional’ conceptualizations of second/foreign/heritage language learners as shaped by educational institutions and related stakeholders over time, given evolving understandings of the practice of language teaching that are directly related to theoretical, political, and institutional discourses. We focus very specifically on constructions of language learners that reflect different views and definitions of language learning, language acquisition/development, and ultimate attainment, examining the intersections of these definitions with formalized language instruction as a particularly significant force for learner categorizations. We argue that formalized language instruction both creates and requires categorizations/classifications of learners that are not neutral and that often have life-impacting consequences for individuals. These constructions of learners, moreover, are shaped by a number of interacting and intersecting mechanisms, including theoretical perspectives, educational policies, informing disciplines, instructional materials, pedagogical traditions, and testing and accountability requirements.
+ER  - 
+
+TY  - JOUR
+AU  - Kubanyiova, Magdalena
+AU  - Crookes, Graham
+TI  - Re-Envisioning the Roles, Tasks, and Contributions of Language Teachers in the Multilingual Era of Language Education Research and Practice
+JO  - The Modern Language Journal
+JA  - The Modern Language Journal
+VL  - 100
+IS  - S1
+SN  - 1540-4781
+UR  - http://dx.doi.org/10.1111/modl.12304
+DO  - 10.1111/modl.12304
+SP  - 117
+EP  - 132
+KW  - language teachers
+KW  - language teacher education
+KW  - teacher development
+KW  - teacher identity
+KW  - critical pedagogy
+KW  - advocacy
+KW  - moral values
+KW  - moral vision
+PY  - 2016
+AB  - This article lays out the proposition that the rapid changes in 21st-century society, in which multilingualism is the norm, have presented new challenges, questions, and resources with regard to the roles, tasks, and contributions of language teachers. In line with recent research developments and in keeping with tradition, we believe it helpful to think of language teachers’ broader identity role as that of moral agent. We examine implications that such a re-envisioning has for the knowledge base of language teachers and for the purposes and practices of language teacher education and professional development. Drawing on research in language teacher education, language teacher cognition, second language acquisition, and applied linguistics more broadly, we highlight the need to go beyond traditional notions of teachers’ knowledge of language, language learning, and language learners. We also subject to critical scrutiny the notions of effective pedagogies and reflective practice as the desired outcomes of language teacher preparation and development. Instead, we introduce critical alternatives that offer creative possibilities for educating teachers able and willing to serve student populations with diverse language learning needs across interlinguistic, sociopolitical, and historical contexts of language teaching.
+ER  - 
+
+TY  - JOUR
+AU  - Collins, Laura
+AU  - Muñoz, Carmen
+TI  - The Foreign Language Classroom: Current Perspectives and Future Considerations
+JO  - The Modern Language Journal
+JA  - The Modern Language Journal
+VL  - 100
+IS  - S1
+SN  - 1540-4781
+UR  - http://dx.doi.org/10.1111/modl.12305
+DO  - 10.1111/modl.12305
+SP  - 133
+EP  - 147
+KW  - foreign language
+KW  - language teaching
+KW  - language learning
+KW  - language classrooms
+KW  - EFL
+KW  - instructional time
+PY  - 2016
+AB  - The Modern Language Journal has long been an important venue for the publication of research and reflection on the teaching and learning of foreign languages (FL) in classroom contexts. In this article, we offer a perspective on the contemporary FL classroom, informed by a descriptive survey of all studies that took place in FL classes that were published in The Modern Language Journal (MLJ) between 2001 and 2014 inclusive (N = 97). This yielded a profile of FL classrooms in terms of geographical locations, languages being taught, the amount and distribution of instructional time, and the age and language backgrounds of the students. The findings revealed that FL environments benefiting from research investigations in the MLJ typically involve older learners in on-site (rather than virtual) classes that afford limited exposure to the FL, which was typically English (in non-English-speaking countries) and French, German, or Spanish (in English-speaking countries). We consider the implications of these findings for the study of FLs in the future and identify aspects of FL classrooms that merit greater research attention as the MLJ moves into its second century.
+ER  - 
+
+TY  - JOUR
+AU  - Toth, Paul D.
+AU  - Davin, Kristin J.
+TI  - The Sociocognitive Imperative of L2 Pedagogy
+JO  - The Modern Language Journal
+JA  - The Modern Language Journal
+VL  - 100
+IS  - S1
+SN  - 1540-4781
+UR  - http://dx.doi.org/10.1111/modl.12306
+DO  - 10.1111/modl.12306
+SP  - 148
+EP  - 168
+KW  - pedagogy
+KW  - sociocognitive
+KW  - cognitive
+KW  - sociocultural
+KW  - modeling
+KW  - guidance
+KW  - handover
+PY  - 2016
+AB  - As a new century begins for The Modern Language Journal, we argue that highly effective pedagogy requires viewing language and language learning as both cognitive and social phenomena, and that teachers who seek to truly understand the nature of their responsibilities do not have the luxury of choosing one perspective over the other. We first identify what we consider to be theory-neutral nonnegotiable boundaries within which pedagogical decision making takes place, including (a) participants’ background knowledge, (b) the nature of the object of instruction, (c) the nature of human cognition and social interaction, and (d) available time. Then we discuss learning goals, learning means, and instructional support as the negotiable elements that teachers may manipulate through their instructional decisions. At the heart of the article, we describe in greater detail cognitive versus social perspectives on the dynamic relationship between teaching and learning, and we identify ways in which they diverge and converge in characterizing linguistic development. We then synthesize these perspectives in a holistic, sociocognitive view of pedagogy, which we define as ‘a meeting of minds within social worlds.’ We conclude by outlining current pedagogical proposals that exemplify sociocognitive pedagogy by engaging learners in iterative cycles of modeling, guidance, and handover to independent language use.
+ER  - 
+
+TY  - JOUR
+AU  - Norris, John M.
+TI  - Language Program Evaluation
+JO  - The Modern Language Journal
+JA  - The Modern Language Journal
+VL  - 100
+IS  - S1
+SN  - 1540-4781
+UR  - http://dx.doi.org/10.1111/modl.12307
+DO  - 10.1111/modl.12307
+SP  - 169
+EP  - 189
+KW  - program evaluation
+KW  - accountability testing
+KW  - outcomes assessment
+KW  - curricular innovation
+KW  - formative, participatory
+PY  - 2016
+AB  - Language program evaluation is a pragmatic mode of inquiry that illuminates the complex nature of language-related interventions of various kinds, the factors that foster or constrain them, and the consequences that ensue. Program evaluation enables a variety of evidence-based decisions and actions, from designing programs and implementing practices to judging effectiveness and improving outcomes. Though often narrowly construed as an external accountability requirement only, evaluation may provide a heuristic for generating new knowledge; raising awareness; and transforming the educational, social, and economic circumstances of individuals and communities. In this article, I review the origins and interdisciplinary nature of program evaluation, and I trace its development within applied linguistics and language education in particular. I then consider the current contributions of language program evaluation, and I point to likely future trends. In particular, I highlight how changing global circumstances, technological affordances, and contexts and purposes for language learning and language use are both impacting the nature of evaluation and presenting challenges for which evaluation is uniquely suited to respond. I also emphasize the potential—versus as yet realized—contribution of program evaluation as a way of ameliorating gaps in current language research and practice, and I point to implications for training, dissemination, and integration of this mode of inquiry as an important part of the future intellectual core of applied linguistics.
+ER  - 
+
+TY  - JOUR
+AU  - Purpura, James E.
+TI  - Second and Foreign Language Assessment
+JO  - The Modern Language Journal
+JA  - The Modern Language Journal
+VL  - 100
+IS  - S1
+SN  - 1540-4781
+UR  - http://dx.doi.org/10.1111/modl.12308
+DO  - 10.1111/modl.12308
+SP  - 190
+EP  - 208
+KW  - L2 assessment
+KW  - L2 testing
+KW  - L2 validation
+KW  - L2 construct definition
+KW  - models of L2 proficiency
+PY  - 2016
+AB  - This article summarizes some of the main issues, concerns, and debates that have ensued over the years in the field of L2 assessment and shows how past concerns have shaped contemporary L2 assessment research and practice. The article first describes what L2 assessment is and what it entails, arguing that notions of L2 assessment have been broadened over the years to keep pace with contemporary interpretations of how information from assessments in large-scale or classroom contexts is used to make decisions. It then describes in some detail four approaches to construct definition, showing how these approaches have influenced what gets assessed. Finally, the paper discusses a range of other topics of current and future importance for L2 assessment theory, research, and practice.
+ER  - 
+
+TY  - JOUR
+AU  - King, Kendall A.
+AU  - Mackey, Alison
+TI  - Research Methodology in Second Language Studies: Trends, Concerns, and New Directions
+JO  - The Modern Language Journal
+JA  - The Modern Language Journal
+VL  - 100
+IS  - S1
+SN  - 1540-4781
+UR  - http://dx.doi.org/10.1111/modl.12309
+DO  - 10.1111/modl.12309
+SP  - 209
+EP  - 227
+KW  - mixed methods
+KW  - qualitative
+KW  - quantitative
+KW  - technique
+KW  - paradigm
+KW  - ethnography
+PY  - 2016
+AB  - The field of second language studies is using increasingly sophisticated methodological approaches to address a growing number of urgent, real-world problems. These methodological developments bring both new challenges and opportunities. This article briefly reviews recent ontological and methodological debates in the field, then builds on these insights to consider some of the current dilemmas faced by researchers of second language teaching and learning, including concerns regarding fragmentation, generalizability, and replication. Through a review of recent research, we argue that one means of addressing these ongoing questions is to continue to focus collectively and collaboratively on solving real-world problems of language learning, while also layering our perspectives. By layering, we mean considering the central philosophical challenges, often those that are basic values in our methodological approaches, such as objectivity and bias, from varied epistemological stances. We argue that recognizing these differences and using a layered approach will enhance and improve our attempts to address the pressing problems in our field.
+ER  - 

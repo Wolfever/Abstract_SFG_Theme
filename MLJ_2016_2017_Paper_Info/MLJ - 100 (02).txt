@@ -1,0 +1,173 @@
+﻿Provider: John Wiley & Sons, Ltd
+Content:text/plain; charset="UTF-8"
+
+TY  - JOUR
+AU  - ZHANG, XIAOPENG
+AU  - DONG, XIAOLI
+TI  - Revisiting Zipfian Frequency: L2 Acquisition of English Prenominal Past Participles
+JO  - The Modern Language Journal
+JA  - The Modern Language Journal
+VL  - 100
+IS  - 2
+SN  - 1540-4781
+UR  - http://dx.doi.org/10.1111/modl.12328
+DO  - 10.1111/modl.12328
+SP  - 404
+EP  - 427
+KW  - Zipfian frequency
+KW  - L2 acquisition
+KW  - English prenominal past participles
+KW  - Chinese speakers
+KW  - untimed acceptability judgment task
+KW  - timed grammaticality judgment task
+PY  - 2016
+AB  - This study examined the effectiveness of Zipfian frequency at facilitating the acquisition of English prenominal past participles. Chinese middle school students (N = 103) were randomly assigned to a sequenced Zipfian frequency (SZF) group, a random Zipfian frequency (RZF) group, a balanced frequency (BF) group, and a control group. A mixed experimental design was used to detect the development of the learners’ prenominal past participles. An untimed acceptability judgment task and a timed grammaticality judgment task were employed to assess the learning effect triggered by different types of frequency. Results of the timed grammaticality judgment task indicated that SZF was as effective as RZF and BF for learners to learn the grammatical prenominal past participles but more effective than RZF and BF for them to unlearn the ungrammatical ones in the midtest. Results of the untimed acceptability judgment showed that SZF was not superior to RZF and BF when learners learned the grammatical prenominal past participles, but more beneficial for them to unlearn the ungrammatical ones than RZF and BF in the post- and delayed posttests. Pedagogical implications for second language construction teaching are discussed.
+ER  - 
+
+TY  - JOUR
+AU  - MCDONOUGH, KIM
+AU  - TROFIMOVICH, PAVEL
+TI  - The Role of Statistical Learning and Working Memory in L2 Speakers’ Pattern Learning
+JO  - The Modern Language Journal
+JA  - The Modern Language Journal
+VL  - 100
+IS  - 2
+SN  - 1540-4781
+UR  - http://dx.doi.org/10.1111/modl.12331
+DO  - 10.1111/modl.12331
+SP  - 428
+EP  - 445
+KW  - L2 pattern learning
+KW  - statistical learning
+KW  - working memory
+PY  - 2016
+AB  - This study investigated whether second language (L2) speakers’ morphosyntactic pattern learning was predicted by their statistical learning and working memory abilities. Across three experiments, Thai English as a Foreign Language (EFL) university students (N = 140) were exposed to either the transitive construction in Esperanto (e.g., tauro batas cevalon, “bull hits horse”) or the nonprototypical English double-object dative construction (e.g., John built the table a leg). They also completed an aural test of statistical learning and a spoken backward digit-span test of working memory. In Experiment 1, only statistical learning was predictive of Esperanto pattern learning. Experiment 2 targeted pattern learning of the English nonprototypical double-object dative construction. Although working memory was associated with performance in the exposure phase, only statistical learning predicted test performance, as in Experiment 1. Finally, Experiment 3 served as a control condition in which participants were exposed to prototypical datives only during the exposure phase. This experiment showed that neither statistical learning nor working memory were associated with exposure or test performance. The findings are discussed in terms of the engagement of statistical learning and working memory during L2 pattern learning.
+ER  - 
+
+TY  - JOUR
+AU  - WU, SHU-LING
+TI  - Development of Thinking for Speaking: What Role Does Language Socialization Play?
+JO  - The Modern Language Journal
+JA  - The Modern Language Journal
+VL  - 100
+IS  - 2
+SN  - 1540-4781
+UR  - http://dx.doi.org/10.1111/modl.12330
+DO  - 10.1111/modl.12330
+SP  - 446
+EP  - 465
+KW  - thinking for speaking
+KW  - motion events
+KW  - language socialization
+KW  - heritage language
+KW  - implicit knowledge
+PY  - 2016
+AB  - It has been noted that Chinese shows both satellite- and verb-framed properties (Beavers, Levin, & Tham, ; Slobin, ), a fact that offers the opportunity to explore the typological influence of learners’ dominant language because they can choose either option to describe the same motion events and be grammatically correct. This study comprehensively examined the impact of factors including the dominant language's thinking for speaking (TFS) (Slobin, , , ), as well as proficiency and degree of socialization with the target language. It examined oral narratives produced by 80 learners of Chinese representing two proficiency levels (low vs. high) and two linguistic backgrounds (heritage language vs. foreign language), as compared to two baseline groups of 40 Chinese native speakers (NSs) and 40 English NSs. Analysis of the motion verbs and motion constructions showed a limited role of the dominant TFS. While the more proficient learners were more capable of producing task-relevant motion expressions regardless of their language background, only advanced heritage learners demonstrated target-like TFS. Comparison of heritage and foreign language learners at the same proficiency level suggests that degree of language socialization plays a crucial role in facilitating development of TFS in the target language.
+ER  - 
+
+TY  - JOUR
+AU  - SHARDAKOVA, MARIA
+TI  - American Learners’ Comprehension of Russian Textual Humor
+JO  - The Modern Language Journal
+JA  - The Modern Language Journal
+VL  - 100
+IS  - 2
+SN  - 1540-4781
+UR  - http://dx.doi.org/10.1111/modl.12329
+DO  - 10.1111/modl.12329
+SP  - 466
+EP  - 483
+KW  - humor comprehension
+KW  - second-language humor
+KW  - second-language reading skills
+KW  - Russian language
+PY  - 2016
+AB  - Over the past decade, second language (L2) humor has attracted scholarly attention as both a means and a goal of L2 development. Much of this research, however, has focused on oral communication, whereas virtually no studies address humor as an aspect of reading comprehension. This exploratory study combines these two areas of inquiry, examining how L2 learners of Russian negotiate textual humor. In particular, the study addresses the role of textual properties (genre and humorousness), and the effects of proficiency on learners’ ability to apprehend and appreciate textual humor. The findings suggest that learner comprehension is dynamic and often partial (cf. Bell, ), depending on familiarity with genre conventions and linguistic devices signaling humorous intent. The study also found that different stages of humor comprehension required discrete sets of knowledge: Detection, for example, relies on L2 linguistic knowledge, whereas understanding hinges largely on native cultural beliefs. Comparison of both groups suggested that the differences between learners and native speakers were both quantitative and qualitative. The role of proficiency was more complex than expected and primarily evidenced in the accuracy (rather than frequency) of humor recognition independent of text properties. The article concludes with pedagogical suggestions and outlines future research areas.
+ER  - 
+
+TY  - JOUR
+AU  - CUNNINGHAM, D. JOSEPH
+TI  - Request Modification in Synchronous Computer-Mediated Communication: The Role of Focused Instruction
+JO  - The Modern Language Journal
+JA  - The Modern Language Journal
+VL  - 100
+IS  - 2
+SN  - 1540-4781
+UR  - http://dx.doi.org/10.1111/modl.12332
+DO  - 10.1111/modl.12332
+SP  - 484
+EP  - 507
+KW  - pragmatic development
+KW  - requests
+KW  - telecollaboration
+KW  - synchronous computer-mediated communication
+KW  - German
+PY  - 2016
+AB  - The pairing of telecollaboration and focused instruction can lead to measurable gains in second language learners’ pragmatic competence (Belz & Vyatkina, , ; Vyatkina & Belz, ). This article examines speech act production in telecollaborative exchange, focusing on the requesting behavior of American learners of German for professional purposes as they interacted with German-speaking professionals in Germany via synchronous Web conferences. Drawing on quantitative and qualitative methods, the study investigated the effect of interaction with expert speakers and the implementation of focused instruction on learners’ pragmatic development. Whereas quantitative analysis showed no change between experimental conditions, qualitative analysis of 4 learners’ request production over the course of 4 online discussions revealed idiosyncratic developmental pathways and the emergence of a common strategy for managing participation in oral synchronous computer-mediated communication. The findings provide new insight regarding the nature of second language request production and confirm the utility of pragmatics instruction in telecollaboration. At the same time, the study calls for more refined analytical tools when investigating language development in extended telecollaborative discourse.
+ER  - 
+
+TY  - JOUR
+AU  - BACK, MICHELE
+TI  - Epistemics and Expertise in Peer Tutoring Interactions: Co-Constructing Knowledge of Spanish
+JO  - The Modern Language Journal
+JA  - The Modern Language Journal
+VL  - 100
+IS  - 2
+SN  - 1540-4781
+UR  - http://dx.doi.org/10.1111/modl.12334
+DO  - 10.1111/modl.12334
+SP  - 508
+EP  - 521
+KW  - peer tutoring
+KW  - epistemics
+KW  - Spanish
+KW  - interlocutor differences
+PY  - 2016
+AB  - Peer tutoring is viewed as a valuable component of additional language learning due to the presence of a more knowledgeable interlocutor. Yet researchers and language program directors alike often ignore the linguistic and cultural differences that peer tutors possess, instead categorizing them homogeneously as ‘experts’ or ‘native speakers.’ In this article, I use a case study to closely examine how knowledge is negotiated in one peer tutoring cohort. Grounding my analysis in ethnomethodological and linguistic anthropological notions of epistemics and expertise, I show how one peer tutor drew from various embodied, artifactual, and historical resources in order to negotiate lexical gaps and position herself as an expert in the target language. At the same time, I demonstrate how essentialist ideologies help construct a language expert by highlighting the learners’ alignments to the tutor's epistemic stance as knower, even when faced with conflicting information. These findings question the ways knowledge and expertise are traditionally perceived in peer tutoring and other additional language learning contexts, emphasize the need for training peer tutors in cooperative learning methods and articulating their knowledge with that from the classroom setting, and highlight the complex ideologies that surround the ‘right to know’ a target language.
+ER  - 
+
+TY  - JOUR
+AU  - ACHESON, KRIS
+AU  - TAYLOR, JUSTIN
+AU  - LUNA, KERA
+TI  - The Burnout Spiral: The Emotion Labor of Five Rural U.S. Foreign Language Teachers
+JO  - The Modern Language Journal
+JA  - The Modern Language Journal
+VL  - 100
+IS  - 2
+SN  - 1540-4781
+UR  - http://dx.doi.org/10.1111/modl.12333
+DO  - 10.1111/modl.12333
+SP  - 522
+EP  - 537
+KW  - emotion labor
+KW  - teacher attrition
+KW  - student motivation
+KW  - foreign language pedagogy
+KW  - emotional burnout
+PY  - 2016
+AB  - An area of research that may shed light on the pressing problem of FL teacher attrition is emotion labor. Emotion labor (or emotional labour), a construct stemming from research in the fields of communication and psychology and focusing mainly on service professionals, has recently been taken up in education literature. Although student emotions in language acquisition have been examined, the field of applied linguistics has not yet tapped the explanatory potential of teacher emotions. The current project explores the emotion work of 5 teachers in rural U.S. high school FL classrooms. Thematic analysis of interviews with teachers of Spanish, French, and Latin yielded 5 key insights: perceived lack of community and institutional support for FL teachers, an excessive burden for motivation felt by these teachers, the use of teacher emotion labor to motivate their students, emotional burnout of the teachers, and perceived lack of teacher efficacy. The last two, while not inevitable, seem to be mutually influencing, forming a downward spiral that can eventually impact the willingness or ability of some teachers to continue in their careers. Implications of this study include recognition of the significance of teacher emotion labor in FL pedagogy and its potential role in teacher attrition.
+ER  - 
+
+TY  - JOUR
+AU  - PLONSKY, LUKE
+AU  - DERRICK, DEIRDRE J.
+TI  - A Meta-Analysis of Reliability Coefficients in Second Language Research
+JO  - The Modern Language Journal
+JA  - The Modern Language Journal
+VL  - 100
+IS  - 2
+SN  - 1540-4781
+UR  - http://dx.doi.org/10.1111/modl.12335
+DO  - 10.1111/modl.12335
+SP  - 538
+EP  - 553
+KW  - reliability
+KW  - second language
+KW  - testing
+KW  - psychometrics
+KW  - meta-analysis
+KW  - instrumentation
+PY  - 2016
+AB  - Ensuring internal validity in quantitative research requires, among other conditions, reliable instrumentation. Unfortunately, however, second language (L2) researchers often fail to report and even more often fail to interpret reliability estimates beyond generic benchmarks for acceptability. As a means to guide interpretations of such estimates, this article meta-analyzes reliability coefficients (internal consistency, interrater, and intrarater) as reported in published L2 research. We recorded 2,244 reliability estimates in 537 individual articles along with study (e.g., sample size) and instrument features (e.g., item formats) proposed to influence reliability. We also coded for the indices employed (e.g., alpha, KR20). The coefficients were then aggregated (i.e., meta-analyzed). The three types of reliability varied, with internal consistency as the lowest: median = .82. Interrater and intrarater estimates were substantially higher (.92 and .95, respectively). Overall estimates were also found to vary according to study and instrument features such as proficiency (low = .79, intermediate = .84, advanced = .89) and target skill (e.g., writing = .88 vs. listening = .77). We use our results to inform and encourage interpretations of reliability estimates relative to the larger field as well as to the substantive and methodological features particular to individual studies and subdomains.
+ER  - 

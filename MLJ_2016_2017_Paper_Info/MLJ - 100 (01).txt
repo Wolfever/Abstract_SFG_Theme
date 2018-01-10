@@ -1,0 +1,170 @@
+﻿Provider: John Wiley & Sons, Ltd
+Content:text/plain; charset="UTF-8"
+
+TY  - JOUR
+AU  - SASAYAMA, SHOKO
+TI  - Is a ‘Complex’ Task Really Complex? Validating the Assumption of Cognitive Task Complexity
+JO  - The Modern Language Journal
+JA  - The Modern Language Journal
+VL  - 100
+IS  - 1
+SN  - 1540-4781
+UR  - http://dx.doi.org/10.1111/modl.12313
+DO  - 10.1111/modl.12313
+SP  - 231
+EP  - 254
+KW  - Task-Based Language Teaching (TBLT)
+KW  - materials development
+KW  - proficiency
+KW  - oral communication
+PY  - 2016
+AB  - In research on task-based learning and teaching, it has traditionally been assumed that differing degrees of cognitive task complexity can be inferred through task design and/or observations of differing qualities in linguistic production elicited by second language (L2) communication tasks. Without validating this assumption, however, it is unclear at best whether the designed or inferred difference in complexity, the key independent variable, is realized as intended. Accordingly, this study adopted diverse methods from cognitive psychology for independently measuring cognitive task complexity, including: dual-task methodology, time estimation, and self-rating. Fifty-three English-L2 speakers in Japan, representing distinct proficiency levels, narrated 4 picture sequences, each containing differing numbers of characters. While performing the primary story-telling task, participants simultaneously completed a secondary task of reacting to a color change. After each story-telling, they also estimated their time-on-task and rated their perceptions of task difficulty and mental effort. Results revealed that only large differences in the task design feature (i.e., number of elements) were detectable in terms of independent measures of cognitive complexity. This finding underscores the importance of validating the assumptions about the relationship between task design and its putative effects on cognitive complexity. Findings also indicated a potential interaction among proficiency, task designs, and measures of cognitive load.
+ER  - 
+
+TY  - JOUR
+AU  - GURZYNSKI–WEISS, LAURA
+TI  - Factors Influencing Spanish Instructors’ In-Class Feedback Decisions
+JO  - The Modern Language Journal
+JA  - The Modern Language Journal
+VL  - 100
+IS  - 1
+SN  - 1540-4781
+UR  - http://dx.doi.org/10.1111/modl.12314
+DO  - 10.1111/modl.12314
+SP  - 255
+EP  - 275
+KW  - teacher cognition
+KW  - oral corrective feedback
+KW  - foreign language classrooms
+KW  - stimulated recall
+KW  - instructor characteristics
+PY  - 2016
+AB  - While oral corrective feedback is a principal focus in second language acquisition research, most studies examine feedback once it has been provided. Investigating how instructors make in-class feedback decisions has not been thoroughly explored, despite the fact that classroom feedback occurs at the discretion of the individual language instructor and evidence from case studies that feedback provision varies greatly between instructors (recently reviewed in Lyster, Saito, & Sato, ). This study investigates how 32 instructors make their moment-to-moment feedback decisions in response to learner errors during natural, university-level Spanish foreign language lessons. Each instructor had a 50-minute grammar-focused lesson videotaped and participated in a stimulated recall. Results reveal instructor in-class feedback decision making to be a systematic and ordered cognitive process: Instructors who reflect on learner errors report that contextual (e.g., error type), learner (e.g., perceived student ability), and instructor factors (e.g., research background) influenced their decision whether or not to provide feedback, as well what type(s) to provide, and when. Others report having automatized their feedback practices and not reflecting on learner errors. All instructors report that their individual characteristics, specifically their native language, teaching experience, and training in second language acquisition, mediate the corrective feedback they provide.
+ER  - 
+
+TY  - JOUR
+AU  - LI, SHAOFENG
+AU  - ZHU, YAN
+AU  - ELLIS, ROD
+TI  - The Effects of the Timing of Corrective Feedback on the Acquisition of a New Linguistic Structure
+JO  - The Modern Language Journal
+JA  - The Modern Language Journal
+VL  - 100
+IS  - 1
+SN  - 1540-4781
+UR  - http://dx.doi.org/10.1111/modl.12315
+DO  - 10.1111/modl.12315
+SP  - 276
+EP  - 295
+KW  - feedback timing
+KW  - immediate feedback
+KW  - delayed feedback
+PY  - 2016
+AB  - The article reports on a study investigating the comparative effects of immediate and delayed corrective feedback in learning the English past passive construction, a linguistic structure of which the learners had little prior knowledge. A total of 120 learners of English as a foreign language (EFL) from 4 intact classes at a Chinese middle school were randomly assigned to conditions: immediate feedback, delayed feedback, task-only, and control. The 3 experimental groups attended a 2-hour treatment session where they performed 2 dictogloss (narrative) tasks in groups, each followed by a reporting phase in which they took turns telling the narrative to the class. The 2 feedback groups received either immediate or delayed corrective feedback in the form of a prompt, followed by recasts of utterances containing errors in their use of the target structure. No effect for the corrective feedback was found on elicited imitation test scores, but both the immediate and delayed feedback resulted in gains in grammaticality judgment test scores, with immediate feedback showing some advantage over delayed feedback. We interpret these results as showing that the feedback only aided the development of declarative/explicit knowledge and that the advantage found for immediate feedback was due to the learners using the feedback progressively in the production of new past passive sentences, whereas this did not occur in the delayed feedback condition.
+ER  - 
+
+TY  - JOUR
+AU  - SHINTANI, NATSUKO
+AU  - AUBREY, SCOTT
+TI  - The Effectiveness of Synchronous and Asynchronous Written Corrective Feedback on Grammatical Accuracy in a Computer-Mediated Environment
+JO  - The Modern Language Journal
+JA  - The Modern Language Journal
+VL  - 100
+IS  - 1
+SN  - 1540-4781
+UR  - http://dx.doi.org/10.1111/modl.12317
+DO  - 10.1111/modl.12317
+SP  - 296
+EP  - 319
+KW  - SLA
+KW  - writing
+KW  - feedback
+KW  - computer assisted language learning (CALL)
+KW  - form-focused instruction (FonF)
+PY  - 2016
+AB  - This study extends research on written corrective feedback (CF) by investigating how timing of CF affects grammar acquisition. Specifically, it examined the relative effects of synchronous and asynchronous CF on the accurate use of the hypothetical conditional structure. Participants were 68 intermediate-level students of English at a university in Japan. Learners from a synchronous CF group (SCF), an asynchronous CF group (ACF), and a comparison group completed 2 writing tasks using Google Docs. The 2 experimental groups received focused direct CF with the following differences: The SCF group received synchronous feedback on grammatical errors during writing tasks, while the ACF learners received feedback after the tasks. Participants revised their texts upon receiving the feedback. The comparison group completed the writing tasks without feedback. Accurate use of the target feature was measured by a set of 3 text reconstruction tasks conducted as pre-, immediate post-, and delayed posttests. The results showed that both experimental groups significantly improved from the pretest to the 2 posttests while the comparison group did not. Overall, however, effect sizes for the posttests indicated that SCF was more effective in improving learners’ accuracy with only the SCF group outperforming the comparison group on the delayed posttest.
+ER  - 
+
+TY  - JOUR
+AU  - BARKAOUI, KHALED
+TI  - What and When Second-Language Learners Revise When Responding to Timed Writing Tasks on the Computer: The Roles of Task Type, Second Language Proficiency, and Keyboarding Skills
+JO  - The Modern Language Journal
+JA  - The Modern Language Journal
+VL  - 100
+IS  - 1
+SN  - 1540-4781
+UR  - http://dx.doi.org/10.1111/modl.12316
+DO  - 10.1111/modl.12316
+SP  - 320
+EP  - 340
+KW  - computer-based writing task
+KW  - keyboarding skills
+KW  - keystroke logging
+KW  - revision behavior
+KW  - second language proficiency
+KW  - timed writing tasks
+PY  - 2016
+AB  - This study contributes to the literature on second language (L2) learners’ revision behavior by describing what, when, and how often L2 learners revise their texts when responding to timed writing tasks on the computer and by examining the effects of task type, L2 proficiency, and keyboarding skills on what and when L2 learners revise. Each of 54 participants with 2 levels of L2 proficiency (low vs. high) and 2 levels of keyboarding skills (low vs. high) responded to timed independent and integrated writing tasks on the computer. A keystroke logging program recorded each participant's writing activities. Keystroke data were coded in terms of participants’ revision behavior (e.g., orientation, linguistic domain, and temporal location of revisions) and then compared across tasks and learner groups. The findings suggest that the participants tended to revise form more often than content and that L2 proficiency and, to a lesser extent, task type, but not keyboarding skills, affected participants’ revision behaviors during the timed writing tasks. Overall, the participants made more precontextual (that is, at the point of inscription) revisions than contextual revisions (that is, revisions of already written text), made considerably more typography and language revisions than content revisions, revised more frequently at the phrase and word level than at higher levels, and tended to make precontextual revisions more frequently in the first two thirds of the writing process and contextual revisions most frequently in the last third of the writing session. The findings and their implications for practice and research are discussed.
+ER  - 
+
+TY  - JOUR
+AU  - VAN COMPERNOLLE, RÉMI A.
+AU  - GOMEZ–LAICH, MARIA PIA
+AU  - WEBER, ASHLEY
+TI  - Teaching L2 Spanish Sociopragmatics Through Concepts: A Classroom-Based Study
+JO  - The Modern Language Journal
+JA  - The Modern Language Journal
+VL  - 100
+IS  - 1
+SN  - 1540-4781
+UR  - http://dx.doi.org/10.1111/modl.12318
+DO  - 10.1111/modl.12318
+SP  - 341
+EP  - 361
+KW  - second language pragmatics
+KW  - instructional pragmatics
+KW  - concept-based instruction
+KW  - sociocultural theory
+KW  - second person pronouns
+PY  - 2016
+AB  - This study explores the teaching of second language (L2) Spanish sociopragmatics through concept-based pragmatics instruction (van Compernolle, ). The concepts of self-presentation, social distance, and power were the focus of a pedagogical enrichment program in 2 sections of a beginning-level Spanish class at a northeastern U.S. university. The concepts were illustrated by the Spanish second person pronoun system (i.e., tú vs. usted). The analysis centers on preenrichment and postenrichment performances on 3 tasks: (a) a language awareness survey, (b) an appropriateness judgment task, and (c) a written discourse completion task. Results show positive gains in conceptual sociopragmatic knowledge and the ability to apply this knowledge when making pragmalinguistic choices. However, morphosyntactic accuracy in performance appears to lag behind conceptual knowledge.
+ER  - 
+
+TY  - JOUR
+AU  - SALIDO, MARCOS GARCÍA
+TI  - Error Analysis of Support Verb Constructions in Written Spanish Learner Corpora
+JO  - The Modern Language Journal
+JA  - The Modern Language Journal
+VL  - 100
+IS  - 1
+SN  - 1540-4781
+UR  - http://dx.doi.org/10.1111/modl.12320
+DO  - 10.1111/modl.12320
+SP  - 362
+EP  - 376
+KW  - support verb constructions
+KW  - Spanish learners
+KW  - collocations
+KW  - learner corpora
+KW  - error analysis
+PY  - 2016
+AB  - This article studies the use of support verb constructions (SVCs) in the written production of learners of Spanish. SVCs are lexical combinations whose content is similar to verbal predicates but is distributed between a verb and a noun, the noun being the carrier of the core lexical meaning of the predicate. Although there is considerable agreement on the importance of these constructions in the learning process, their use in the production of learners of Spanish has so far attracted little attention. This study examines the difficulties posed to learners by this construction by means of a qualitative analysis of the errors registered in 3 samples consisting of essays by learners with 3 different mother tongues (English, Swedish, and Japanese). It focuses on 3 types of error, 2 of which—the support verb choice and the determiner choice—seem to be especially problematic due to the unpredictability of the units involved. The third type—using an SVC instead of a more idiomatic 1-word verb—is regularly found only in the samples of the Japanese speakers, which suggests the influence of a particular mother tongue in its production.
+ER  - 
+
+TY  - JOUR
+AU  - DAVIS, JOHN MCEWAN
+TI  - Toward a Capacity Framework for Useful Student Learning Outcomes Assessment in College Foreign Language Programs
+JO  - The Modern Language Journal
+JA  - The Modern Language Journal
+VL  - 100
+IS  - 1
+SN  - 1540-4781
+UR  - http://dx.doi.org/10.1111/modl.12319
+DO  - 10.1111/modl.12319
+SP  - 377
+EP  - 399
+KW  - assessment
+KW  - program evaluation
+PY  - 2016
+AB  - The educational impacts of mandated assessment in U.S. colleges is part of a growing research agenda focused on how methodologies of program evaluation best enable educators to improve teaching and learning. Accordingly, research has tried to identify the key aspects of evaluation/assessment ‘capacity’ in college language departments (i.e., environmental conditions and personnel factors) that seem most associated with meaningful reform and evaluation use. This article reports on a provisional framework of evaluation/assessment capacity for university foreign language (FL) programs. Factor analysis was performed on questionnaire data from 204 university language educators reporting on their program assessment activities. Results suggested a set of program-level and institutional capacity elements grouped into 7 categories: (a) institutional support (funding, training, expertise, etc.), (b) institutional governance and leadership, (c) facilitative infrastructures (e.g., curricular maps, assessment plans), (d) program-level support (financial, personnel resources), (e) a prevailing program ethos conducive to educational innovation, (f) pro-assessment attitudes, and (g) high-quality assessment activities and abilities (i.e., dimensions of assessment practice at advanced levels of skill and experience). The framework delineates a provisional set of theory-based, empirically supported program factors linked to assessment usefulness in postsecondary FL education and provides educators a set of guidelines to develop their assessment capabilities.
+ER  - 

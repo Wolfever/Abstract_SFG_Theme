@@ -1,0 +1,153 @@
+﻿Provider: John Wiley & Sons, Ltd
+Content:text/plain; charset="UTF-8"
+
+TY  - JOUR
+AU  - Huensch, Amanda
+AU  - Tracy–Ventura, Nicole
+TI  - L2 Utterance Fluency Development Before, During, and After Residence Abroad: A Multidimensional Investigation
+JO  - The Modern Language Journal
+JA  - The Modern Language Journal
+VL  - 101
+IS  - 2
+SN  - 1540-4781
+UR  - http://dx.doi.org/10.1111/modl.12395
+DO  - 10.1111/modl.12395
+SP  - 275
+EP  - 293
+KW  - study abroad
+KW  - Spanish
+KW  - acquisition/learning/development
+KW  - L2 fluency
+PY  - 2017
+AB  - This study investigated second language fluency development over a nearly 2-year period which included an academic year abroad and the year immediately following the participants' return to their home university. Data from 24 L1 English learners of Spanish were collected 6 times: once before, 3 times during, and 2 times after a 9-month stay abroad. Participants were recorded orally retelling a picture-based narrative, and data were coded for 9 measures of utterance fluency. Results indicated different developmental trends: Gains in speed fluency appeared quickly and were maintained after the return from study abroad, whereas gains in breakdown fluency often took longer and were more sensitive to attrition after returning home. There were no changes over time in repair fluency. These results appear to indicate that some fluency improvements are more robust and less likely to be affected by the change in context (study abroad vs. home country). The findings fill a gap in our understanding of the relationship between oral fluency development and second language speech production processes, and have implications for study abroad researchers as well as post-study abroad instruction.
+ER  - 
+
+TY  - JOUR
+AU  - Henry, Nick
+AU  - Jackson, Carrie N.
+AU  - Dimidio, Jack
+TI  - The Role of Prosody and Explicit Instruction in Processing Instruction
+JO  - The Modern Language Journal
+JA  - The Modern Language Journal
+VL  - 101
+IS  - 2
+SN  - 1540-4781
+UR  - http://dx.doi.org/10.1111/modl.12397
+DO  - 10.1111/modl.12397
+SP  - 294
+EP  - 314
+KW  - Processing Instruction
+KW  - explicit information
+KW  - prosody
+KW  - case
+KW  - German
+PY  - 2017
+AB  - This study investigates the role of prosodic cues and explicit information (EI) in the acquisition of German accusative case markers. We compared 4 groups of 3rd-semester learners (low intermediate level) who completed 1 of 4 Processing Instruction (PI) treatments that manipulated the presence or absence of EI and focused prosody. The results showed that, when training included EI or prosodic cues, the groups improved on comprehension and production tasks in an immediate posttest. Four weeks after training, the groups sustained gains on the comprehension task, but not on the production task. Participants who did not receive EI or prosody only showed improvement on the comprehension task in the immediate posttest and did not sustain these gains. These findings replicate previous findings on the role of EI in PI, showing an advantage for EI with the target form (e.g., Henry, Culman, & VanPatten, 2009). Moreover, the results suggest that prosodic cues help learners process morphosyntactic forms, and that they can enhance grammar instruction.
+ER  - 
+
+TY  - JOUR
+AU  - De Clercq, Bastien
+AU  - Housen, Alex
+TI  - A Cross-Linguistic Perspective on Syntactic Complexity in L2 Development: Syntactic Elaboration and Diversity
+JO  - The Modern Language Journal
+JA  - The Modern Language Journal
+VL  - 101
+IS  - 2
+SN  - 1540-4781
+UR  - http://dx.doi.org/10.1111/modl.12396
+DO  - 10.1111/modl.12396
+SP  - 315
+EP  - 334
+KW  - complexity
+KW  - syntax
+KW  - L2 French
+KW  - L2 English
+KW  - cross-linguistic
+PY  - 2017
+AB  - Syntactic and linguistic complexity have been studied extensively in applied linguistics as indicators of linguistic performance, development, and proficiency. Recent publications have equally highlighted the reductionist approach taken to syntactic complexity measurement, which often focuses on one or two measures representing complexity at the level of clause-linking or the sentence, but eschews complexity measurement at other syntactic levels, such as the phrase or the clause. Previous approaches have also rarely incorporated measures representing the diversity of syntactic structures in learner productions. Finally, complexity development has rarely been considered from a cross-linguistic perspective, so that many questions pertaining to the cross-linguistic validity of complexity measurement remain. This article reports on an empirical study on syntactic complexity development and introduces a range of syntactic diversity measures alongside frequently used measures of syntactic elaboration. The study analyzed 100 English and 100 French second language oral narratives from adolescent native speakers of Dutch, situated at 4 proficiency levels (beginner–advanced), as well as native speaker benchmark data from each language. The results reveal a gradual process of syntactic elaboration and syntactic diversification in both learner groups, while, especially in French, considerable differences between learners and native speakers reside in the distribution of specific clause types.
+ER  - 
+
+TY  - JOUR
+AU  - Zalbidea, Janire
+TI  - ‘One Task Fits All’? The Roles of Task Complexity, Modality, and Working Memory Capacity in L2 Performance
+JO  - The Modern Language Journal
+JA  - The Modern Language Journal
+VL  - 101
+IS  - 2
+SN  - 1540-4781
+UR  - http://dx.doi.org/10.1111/modl.12389
+DO  - 10.1111/modl.12389
+SP  - 335
+EP  - 352
+KW  - task complexity
+KW  - modality
+KW  - working memory
+PY  - 2017
+AB  - The present study explores the independent and interactive effects of task complexity and task modality on linguistic dimensions of second language (L2) performance and investigates how these effects are modulated by individual differences in working memory capacity. Thirty-two intermediate learners of L2 Spanish completed less and more complex versions of the same type of argumentative task in the speaking and writing modalities. Perceived complexity questionnaires were administered as measures of cognitive load to both L2 learners and native speakers to independently validate task complexity manipulations. Task performance was analyzed in terms of general (complexity and accuracy) as well as task-relevant (conjunctions) linguistic measures. Quantitative analyses revealed that task modality played a larger role than task complexity in inducing improved linguistic performance during task-based work: Speaking tasks brought about more syntactically complex output while writing tasks favored more lexically complex and more accurate language. In addition, relationships of working memory capacity with various linguistic measures were attested, but only when the cognitive complexity of tasks was enhanced.
+ER  - 
+
+TY  - JOUR
+AU  - Nassaji, Hossein
+TI  - The Effectiveness of Extensive Versus Intensive Recasts for Learning L2 Grammar
+JO  - The Modern Language Journal
+JA  - The Modern Language Journal
+VL  - 101
+IS  - 2
+SN  - 1540-4781
+UR  - http://dx.doi.org/10.1111/modl.12387
+DO  - 10.1111/modl.12387
+SP  - 353
+EP  - 368
+KW  - corrective feedback
+KW  - intensive recasts
+KW  - extensive recasts
+KW  - interactional feedback
+KW  - second language acquisition
+KW  - form-focused instruction
+KW  - L2 grammar
+PY  - 2017
+AB  - This study investigated the effects of extensive versus intensive recasts. The focus was on the effect of feedback on learning English articles, which, as nonsalient target structures, have been shown to be difficult for many second language learners. Intensive recasts were operationalized as recasts provided on article errors only, while extensive recasts were provided on any errors including article errors. Forty-eight adult intermediate learners of English as a second language (ESL) were divided into 3 groups: an intensive recast group, an extensive recast group, and a control group. Learners conducted 2 communicative tasks with a native-speaker instructor and received feedback on their errors. They were pretested and posttested (immediately and after 2 weeks) using 3 different outcome measures: an oral picture description task, a written grammaticality judgment task, and a written storytelling task. The results revealed that the extensive recast group significantly outperformed the control group on the oral picture description and the grammaticality judgment tasks, whereas the intensive recast group did not. On the written storytelling task, both recast groups outperformed the control group, but the difference was not statistically significant. These findings point to the advantage of extensive recasts and challenge the assumption that recasts on single errors are necessarily more effective than recasts on a wide range of errors.
+ER  - 
+
+TY  - JOUR
+AU  - Serafini, Ellen J.
+TI  - Exploring the Dynamic Long-Term Interaction Between Cognitive and Psychosocial Resources in Adult Second Language Development at Varying Proficiency
+JO  - The Modern Language Journal
+JA  - The Modern Language Journal
+VL  - 101
+IS  - 2
+SN  - 1540-4781
+UR  - http://dx.doi.org/10.1111/modl.12400
+DO  - 10.1111/modl.12400
+SP  - 369
+EP  - 390
+KW  - dynamic systems theory (DST)
+KW  - individual differences
+KW  - working memory
+KW  - L2 motivation
+KW  - learner proficiency
+PY  - 2017
+AB  - This study draws on conceptual and methodological insights afforded within a dynamic systems perspective to explore shifting interrelationships between cognitive capacity and motivational resources in instructed adult second language (L2) learners of Spanish at increasing proficiency. Relationships that emerged showed both stability and fluctuation over a semester of instruction and varied by learners' stage of development. Findings support previous calls to improve upon mainstream approaches to conceptualizing and investigating learner individual differences (IDs) by adopting a holistic, non modular view of the L2 developmental system in general and learner IDs in particular (e.g., Dörnyei, , ; Dörnyei & Ryan, ; Larsen–Freeman, , , ). To further align with DST principles (see Hiver & Al-Hoorie, ), future studies should endeavor to carry out longitudinal case studies with multiple data points in order to reveal intra-individual complexity in the group-level patterns seen here.
+ER  - 
+
+TY  - JOUR
+AU  - Zhang, Dongbo
+TI  - Word Reading in L1 and L2 Learners of Chinese: Similarities and Differences in the Functioning of Component Processes
+JO  - The Modern Language Journal
+JA  - The Modern Language Journal
+VL  - 101
+IS  - 2
+SN  - 1540-4781
+UR  - http://dx.doi.org/10.1111/modl.12392
+DO  - 10.1111/modl.12392
+SP  - 391
+EP  - 411
+KW  - phonological awareness
+KW  - orthographic processing
+KW  - morphological awareness
+KW  - word reading
+KW  - Chinese
+PY  - 2017
+AB  - This study examined the similarities and differences in the functioning of component processes underlying first language (L1) and second language (L2) word reading in Chinese. Fourth-grade Chinese children in Singapore were divided into L1 and L2 reader groups based on whether they used Mandarin or English as their home language. Both groups were administered a battery of tasks that assessed their orthographic processing skill (OP), phonological awareness (PA), morphological awareness (MA), oral vocabulary knowledge, as well as the ability to decode characters and multi-character compound words. Separate Structural Equation Modeling (SEM) analyses showed that in the L1 group, over and above all other variables, both OP and MA, as opposed to PA, were significant predictors of word reading, whereas in the L2 group, OP and PA, as opposed to MA, predicted word reading. Multiple-group SEM analysis further revealed that the effects of OP and MA were significantly larger in the L1 than in the L2 group, whereas a converse pattern was found for PA. These findings are discussed in light of the linguistic and language-to-print mapping properties of Chinese as well as the influence of L1 and L2 learners’ differential experience on how they learn to read in Chinese.
+ER  - 
+

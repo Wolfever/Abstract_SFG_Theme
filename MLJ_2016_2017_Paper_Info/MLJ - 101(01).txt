@@ -1,0 +1,186 @@
+﻿Provider: John Wiley & Sons, Ltd
+Content:text/plain; charset="UTF-8"
+
+TY  - JOUR
+AU  - König, Johannes
+AU  - Tachtsoglou, Sarantis
+AU  - Lammerding, Sandra
+AU  - Strauß, Sarah
+AU  - Nold, Günter
+AU  - Rohde, Andreas
+TI  - The Role of Opportunities to Learn in Teacher Preparation for EFL Teachers’ Pedagogical Content Knowledge
+JO  - The Modern Language Journal
+JA  - The Modern Language Journal
+VL  - 101
+IS  - 1
+SN  - 1540-4781
+UR  - http://dx.doi.org/10.1111/modl.12383
+DO  - 10.1111/modl.12383
+SP  - 109
+EP  - 127
+KW  - assessment
+KW  - teaching English as a second language
+KW  - teacher education
+KW  - teacher knowledge
+KW  - pedagogical content knowledge
+KW  - opportunities to learn
+PY  - 2017
+AB  - The study examines the connection between domain-specific learning opportunities in English as a foreign language (EFL) teacher preparation and preservice EFL teachers’ pedagogical content knowledge (PCK). Using a sample of 444 preservice EFL teachers for secondary schools, it contrasts groups at the end of the 2 phases required in German teacher preparation programs: a theoretical phase at university and a supervised professional internship at a school (practical phase). Specifically, it examines differences in learning opportunities (self-reports) and PCK (paper-and-pencil test results). Findings from regression analysis show that learning opportunity measures substantially predict PCK test scores. The article discusses the effectiveness of EFL teacher preparation programs for preservice teachers’ performance on PCK and concludes with possible interpretations and research suggestions.
+ER  - 
+
+TY  - JOUR
+AU  - Burri, Michael
+AU  - Chen, Honglin
+AU  - Baker, Amanda
+TI  - Joint Development of Teacher Cognition and Identity Through Learning to Teach L2 Pronunciation
+JO  - The Modern Language Journal
+JA  - The Modern Language Journal
+VL  - 101
+IS  - 1
+SN  - 1540-4781
+UR  - http://dx.doi.org/10.1111/modl.12388
+DO  - 10.1111/modl.12388
+SP  - 128
+EP  - 142
+KW  - language teacher cognition
+KW  - teacher identity
+KW  - pronunciation
+KW  - second language teacher education
+PY  - 2017
+AB  - The constructs of teacher cognition and teacher identity have recently gained considerable attention in second language teacher education research for their crucial roles in understanding teacher learning. While a number of current studies have examined the contributions of both constructs, the connections between cognition and identity are yet to be fully conceptualized. This article addresses this gap by drawing on the notion of identification to examine the identity construction and cognition development of 15 student teachers in the context of a postgraduate course on pronunciation pedagogy. Questionnaires, focus group interviews, observations, and semi-structured interviews were triangulated to obtain an in-depth understanding of the complex relations between identity formation and cognition growth. Findings revealed that identity construction—manifested through imagination of self and others, engagement and investment in the course, and alignment with course content—not only had a profound impact on participants’ cognition development, but that these two constructs were intertwined in a complex and reciprocal relationship, fostering the process of student teachers’ learning to teach pronunciation.
+ER  - 
+
+TY  - JOUR
+AU  - Schwartz, Mila
+AU  - Gorbatt, Naomi
+TI  - “There is No Need for Translation: She Understands”: Teachers’ Mediation Strategies in a Bilingual Preschool Classroom
+JO  - The Modern Language Journal
+JA  - The Modern Language Journal
+VL  - 101
+IS  - 1
+SN  - 1540-4781
+UR  - http://dx.doi.org/10.1111/modl.12384
+DO  - 10.1111/modl.12384
+SP  - 143
+EP  - 162
+KW  - sociocultural theory
+KW  - mediation strategies
+KW  - preschool bilingual education
+KW  - Arabic
+KW  - Hebrew
+PY  - 2017
+AB  - In this study, we explored how major theoretical principles and concepts in the mediation strategies of Vygotsky's sociocultural theory are realized in an Arabic−Hebrew preschool in Israel. The aim of this study was to examine how teachers encourage children to use their second language (L2) during teacher−child conversations. In particular, as a response to relatively low motivation for L2 (Arabic) use, the teachers’ mediation was intended to encourage children to use Arabic.The study participants were one Hebrew model teacher, one Arabic model teacher, and children using either Hebrew or Arabic as their first language (L1). We applied a thematic analysis as the methodological framework. Data were collected during one academic year, including video recordings of the teacher−child conversations, and were analyzed quantitatively and qualitatively. The following content categories were extracted: explicit request for use of the L2, managing the children's demand for direct translation, the teacher as a model for the L2 learner, and contributions from language experts. The observation showed that the teachers applied diverse mediation strategies, such as scaffolding, identification of the child's zone of proximal development, and modeling. Avoidance of direct translation was intended to activate children's zone of proximal development and to boost their involvement in L2 learning.
+ER  - 
+
+TY  - JOUR
+AU  - Sasaki, Miyuki
+AU  - Kozaki, Yoko
+AU  - Ross, Steven J.
+TI  - The Impact of Normative Environments on Learner Motivation and L2 Reading Ability Growth
+JO  - The Modern Language Journal
+JA  - The Modern Language Journal
+VL  - 101
+IS  - 1
+SN  - 1540-4781
+UR  - http://dx.doi.org/10.1111/modl.12381
+DO  - 10.1111/modl.12381
+SP  - 163
+EP  - 178
+KW  - normative variables
+KW  - career aspirations
+KW  - L2 motivational self system
+KW  - L2 proficiency growth
+KW  - multifactorial approach
+KW  - reading
+PY  - 2017
+AB  - This study explores the effects of various motivational variables operating within 44 English classes on 1-year-long gains in the English reading proficiency of 1,149 Japanese university students. The study adds new knowledge to the recent outcomes of second language (L2) motivational studies in 3 major ways. First, the explanatory variables include the participants’ own motivation as well as the class norms (ethos) shared by class members, some of which (e.g., career aspirations) were not directly related to their L2 learning. Second, multi-level modeling enabled a simultaneous analysis of L2 proficiency growth over 1 year at both the individual and the class levels. Third, its explanatory sequential mixed methods design (Cresswell, ) demonstrated how the participants’ own accounts help to explain the initial quantitative results in ways the researchers’ outsider speculations could not. The statistical results indicate that the 44 classes grew in L2 reading abilities at significantly different rates over the year and that these differences can be explained by the students’ perceptions of their classmates’ normative career aspirations (among other predictors). These results suggest that being surrounded by classmates with high career aspirations may lead to higher motivation to study the L2 even if students are not highly motivated in the beginning.
+ER  - 
+
+TY  - JOUR
+AU  - Leonard, Karen Ruth
+AU  - Shea, Christine E.
+TI  - L2 Speaking Development During Study Abroad: Fluency, Accuracy, Complexity, and Underlying Cognitive Factors
+JO  - The Modern Language Journal
+JA  - The Modern Language Journal
+VL  - 101
+IS  - 1
+SN  - 1540-4781
+UR  - http://dx.doi.org/10.1111/modl.12382
+DO  - 10.1111/modl.12382
+SP  - 179
+EP  - 193
+KW  - study abroad
+KW  - fluency
+KW  - accuracy
+KW  - complexity
+KW  - Spanish
+PY  - 2017
+AB  - We take a multidimensional perspective on the development of second language (L2) speaking ability and examine how changes in the underlying cognitive variables of linguistic knowledge and processing speed interact with complexity, fluency, and accuracy over the course of a 3-month Spanish study abroad session. Study abroad provides a unique learning context for evaluating changes in the underlying dimensions of L2 speaking because learners are fully immersed in the target language and have ample opportunity to implement, practice, and integrate newly gained skills. Participants were 39 native English speakers acquiring Spanish in Argentina. Results show that participants experienced significant gains across complexity, fluency, and accuracy. However, these gains were not evenly distributed across all dimensions or across all learners. Learners with higher levels of L2 linguistic knowledge and faster L2 processing speed prior to study abroad experienced greater gains in accuracy and syntactic and lexical complexity during study abroad.
+ER  - 
+
+TY  - JOUR
+AU  - Staples, Shelley
+AU  - Laflair, Geoffrey T.
+AU  - Egbert, Jesse
+TI  - Comparing Language Use in Oral Proficiency Interviews to Target Domains: Conversational, Academic, and Professional Discourse
+JO  - The Modern Language Journal
+JA  - The Modern Language Journal
+VL  - 101
+IS  - 1
+SN  - 1540-4781
+UR  - http://dx.doi.org/10.1111/modl.12385
+DO  - 10.1111/modl.12385
+SP  - 194
+EP  - 213
+KW  - corpus linguistics
+KW  - assessment
+KW  - English for Specific Purposes
+KW  - register analysis
+KW  - multi-dimensional analysis
+PY  - 2017
+AB  - Oral Proficiency Interviews (OPIs) are widely used to measure speaking ability in a second or foreign language. The Michigan English Language Assessment Battery (MELAB) Speaking Test is an OPI used for academic and professional purposes around the world. However, little research on this or other OPIs has quantitatively compared test takers’ speech with the target domains of the test. Such a comparison could be used as evidence for the validity argument (Kane, ) for the MELAB. In this study we use corpus-based register analysis and Multi-Dimensional (MD) analysis, investigating a large number of linguistic features to determine the extent to which the language of the MELAB is similar to conversational, academic, and professional spoken discourse, specifically nurse–patient interactions, since many of the test takers are preparing for nursing licensure. The results show that the MELAB has similarities with conversation in its use of stance, and is closely aligned with academic registers and nurse–patient interactions in the use of language for informational exchange, which provides support for the validity argument of the MELAB. However, the use of narrative features and discussion of future possibilities and suggestions are important aspects of both conversation and academic and professional registers but may be harder to evaluate through the MELAB and other similar OPIs.
+ER  - 
+
+TY  - JOUR
+AU  - Lou, Nigel Mantou
+AU  - Noels, Kimberly A.
+TI  - Measuring Language Mindsets and Modeling Their Relations With Goal Orientations and Emotional and Behavioral Responses in Failure Situations
+JO  - The Modern Language Journal
+JA  - The Modern Language Journal
+VL  - 101
+IS  - 1
+SN  - 1540-4781
+UR  - http://dx.doi.org/10.1111/modl.12380
+DO  - 10.1111/modl.12380
+SP  - 214
+EP  - 243
+KW  - language mindsets
+KW  - implicit theories
+KW  - language beliefs
+KW  - achievement goals
+KW  - goal orientations
+KW  - perceived language competence
+PY  - 2017
+AB  - Some people ascribe successful language learning to an innate aptitude that cannot be further developed, at least after a certain young age (i.e., an entity mindset), while other people believe that language learning ability can be improved (i.e., an incremental mindset). The purpose of this research is to (a) introduce the Language Mindsets Inventory (LMI), and (b) test the mindsets–goals–responses model, which maintains that learners’ mindsets predict the goals that they set for language learning, and that these goals in turn affect how they respond to difficult academic and communication episodes. Correlational and factor analyses provided evidence of the LMI's valid and reliable use in research with university-level language students. Path analyses showed that regardless of their competence level, greater endorsement of an incremental mindset was associated with the goal of learning more about the language, and this learning goal in turn predicted greater mastery and less helpless responses in failure situations. Greater endorsement of an entity mindset predicted the goal of demonstrating competence (i.e., performance approach goals) when students believed that they had stronger language skills. The use of the LMI in future research and the importance of supporting incremental mindsets for language education are discussed.
+ER  - 
+
+TY  - JOUR
+AU  - Larson–Hall, Jenifer
+TI  - Moving Beyond the Bar Plot and the Line Graph to Create Informative and Attractive Graphics1
+JO  - The Modern Language Journal
+JA  - The Modern Language Journal
+VL  - 101
+IS  - 1
+SN  - 1540-4781
+UR  - http://dx.doi.org/10.1111/modl.12386
+DO  - 10.1111/modl.12386
+SP  - 244
+EP  - 270
+KW  - methodology
+KW  - statistics
+KW  - graphics
+KW  - data
+KW  - second language acquisition
+PY  - 2017
+AB  - Graphics are often mistaken for a mere frill in the methodological arsenal of data analysis when in fact they can be one of the simplest and at the same time most powerful methods of communicating statistical information (Tufte, ). The first section of the article argues for the statistical necessity of graphs, echoing and amplifying similar calls from Hudson () and Larson–Hall & Plonsky (2015). The second section presents a historical survey of graphical use over the entire history of language acquisition journals, representing 192 years of journal publishing. This shows that a consensus for using certain types of graphics, which lack data credibility, has developed in the applied linguistics field, namely the bar plot and the line graph. The final section of the article is devoted to presenting various types of graphic alternatives to these two consensus graphics. Suggested graphics are data accountable and present all of the data, as well as a summary structure; such graphics include the scatterplot, beeswarm, or pirate plot. Such graphics attract readers, help researchers improve the way they understand and analyze their data, and build credibility in numerical statistical analyses and the conclusions that are drawn.
+ER  - 

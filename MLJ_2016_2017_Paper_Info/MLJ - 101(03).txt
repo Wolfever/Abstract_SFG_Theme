@@ -1,0 +1,243 @@
+﻿Provider: John Wiley & Sons, Ltd
+Content:text/plain; charset="UTF-8"
+
+TY  - JOUR
+AU  - USHIODA, EMA
+AU  - DÖRNYEI, ZOLTÁN
+TI  - Beyond Global English: Motivation to Learn Languages in a Multicultural World: Introduction to the Special Issue
+JO  - The Modern Language Journal
+JA  - The Modern Language Journal
+VL  - 101
+IS  - 3
+SN  - 1540-4781
+UR  - http://dx.doi.org/10.1111/modl.12407
+DO  - 10.1111/modl.12407
+SP  - 451
+EP  - 454
+KW  - global English
+KW  - self-and-identity frameworks
+KW  - individual-psychological and macro-sociological perspectives
+KW  - multilingualism
+PY  - 2017
+AB  - This special issue takes a critical look at a largely uncharted area of language learning motivation: the motivation to learn languages other than English (LOTEs) in an era of globalization and multilingualism. Most 21st-century literature on motivation in second language acquisition has focused on the learning of English, whose dominant status as a global language has significantly shaped current conceptualizations of second language motivation in relation to notions of self and identity. In an effort to redress this balance, the articles in this special issue critically examine two key questions: (a) How far are current theoretical perspectives adequate to account for motivation to learn LOTEs? and (b) What impact does global English have on motivation to learn other second or foreign languages in a globalized yet multicultural and multilingual world? In examining these core questions across a range of sociopolitical and educational settings, this issue brings together broader sociological as well as individual–psychological perspectives on motivation to learn LOTEs.
+ER  - 
+
+TY  - JOUR
+AU  - DÖRNYEI, ZOLTÁN
+AU  - AL-HOORIE, ALI H.
+TI  - The Motivational Foundation of Learning Languages Other Than Global English: Theoretical Issues and Research Directions
+JO  - The Modern Language Journal
+JA  - The Modern Language Journal
+VL  - 101
+IS  - 3
+SN  - 1540-4781
+UR  - http://dx.doi.org/10.1111/modl.12408
+DO  - 10.1111/modl.12408
+SP  - 455
+EP  - 468
+KW  - L2 motivational self system
+KW  - language globalization
+KW  - ideal L2 self
+KW  - ought-to L2 self
+KW  - Global English
+KW  - unconscious motivation
+PY  - 2017
+AB  - The theoretical paradigms of second language (L2) learning motivation developed over the past 25 years have been largely based on the study of English as a target language, which raises the question as to whether they are equally applicable to the understanding of the motivation to learn languages other than English (LOTEs). It is suggested in this article that current conceptualizations of L2 motivation display certain subtle characteristics that may not do full justice to the understanding of the motivation underlying LOTEs, either by downplaying certain important features or by providing an insufficiently nuanced representation of areas where the motivation to learn English and LOTEs diverges. The discussion addresses five such aspects: (a) the confounding interaction of English- and LOTE-related self-images, (b) the individualistic focus of the ideal L2 self, (c) the different nature/role of the ought-to self associated with languages with substantial versus marginal social support, (d) the different nature of goals in the learning of English and LOTEs, and (e) the differing role of unconscious motives in the study of English and LOTEs.
+ER  - 
+
+TY  - JOUR
+AU  - USHIODA, EMA
+TI  - The Impact of Global English on Motivation to Learn Other Languages: Toward an Ideal Multilingual Self
+JO  - The Modern Language Journal
+JA  - The Modern Language Journal
+VL  - 101
+IS  - 3
+SN  - 1540-4781
+UR  - http://dx.doi.org/10.1111/modl.12413
+DO  - 10.1111/modl.12413
+SP  - 469
+EP  - 482
+KW  - instrumentalist versus constitutive views of L2 learning
+KW  - motivation and linguistic multi–competence
+KW  - ideal multilingual selves
+PY  - 2017
+AB  - In 2006, Graddol predicted that numbers of ‘English as a foreign language’ learners would begin to decline through the second decade of this century, as global English achieves basic skill status for children entering education in more societies across the world. As he further noted, having skills in additional languages may thus offer a competitive edge in a global job market where English skills have become commonplace, and where monolingual and even bilingual English speakers may lose out to multilingual competitors. As yet, however, the extent to which the spread of global English may motivate individuals to diversify their language skills beyond English seems limited. Rather, both empirical evidence and commonly held perceptions would seem to endorse the view that global English tends to impact negatively on motivation to learn other languages, despite the growing linguistic and cultural diversity of today's societies. This article critically analyses this impact on motivation from two perspectives. First, from a macro-sociological perspective, it explores the tensions among language globalization, multiculturalism, and multilingualism in today's changing social world and examines the mixed messages communicated for language education in general and for language learners in particular. In so doing, it considers the socially distributed nature of motivation at the level of societal multilingualism and educational policy and practice, and the impact of the social on the individual. Second, from a theoretical perspective, the article considers whether the impact of global English on motivation to learn other languages might be more positively construed by shifting away from SLA frames of reference (concerned with progression toward proficiency in a particular language) in favour of a ‘linguistic multi-competence’ framework, defined by Cook (2016) as the overall system of a mind or community that uses more than one language. As the article concludes, an important pedagogical implication would be a focus on multilingual (rather than L2) speakers as the normative model of communication and instruction, and the associated promotion of ideal multilingual selves.
+ER  - 
+
+TY  - JOUR
+AU  - THOMPSON, AMY S.
+TI  - Language Learning Motivation in the United States: An Examination of Language Choice and Multilingualism
+JO  - The Modern Language Journal
+JA  - The Modern Language Journal
+VL  - 101
+IS  - 3
+SN  - 1540-4781
+UR  - http://dx.doi.org/10.1111/modl.12409
+DO  - 10.1111/modl.12409
+SP  - 483
+EP  - 500
+KW  - motivation
+KW  - multilingualism
+KW  - PPLI
+KW  - L2MSS
+KW  - anti-ought-to self
+KW  - ideal self
+PY  - 2017
+AB  - With the L2 Motivational Self System (L2MSS) as a framework, this study is an investigation of the relationships among motivation, language choice, and multilingualism using data from 195 undergraduate learners of languages other than English (LOTEs) in the context of the United States. Motivation is operationalized by the three aspects of self (ideal, ought-to, and anti-ought-to). Multilingualism is operationalized in two ways: previous language experience and Perceived Positive Language Interaction (PPLI), the latter being an emic perspective of multilingualism for which learners can only be considered to be multilingual if they can articulate positive interactions between foreign languages studied. A variety of analyses were used to answer questions relating to motivational group differences and language choice, the potential predictive nature of motivation in terms of language choice, group differences of motivational profiles between bi- and multilingual students for both operationalizations of multilingualism, and the person-specific versus language-specific nature of the three aspects of self. As most of the work on language learning motivation has been done with English language learners (ELLs), the results of this study with these LOTE learners are contextualized in terms of previous results with ELLs.
+ER  - 
+
+TY  - JOUR
+AU  - MACINTYRE, PETER D.
+AU  - BAKER, SUSAN C.
+AU  - SPARLING, HEATHER
+TI  - Heritage Passions, Heritage Convictions, and the Rooted L2 Self: Music and Gaelic Language Learning in Cape Breton, Nova Scotia
+JO  - The Modern Language Journal
+JA  - The Modern Language Journal
+VL  - 101
+IS  - 3
+SN  - 1540-4781
+UR  - http://dx.doi.org/10.1111/modl.12417
+DO  - 10.1111/modl.12417
+SP  - 501
+EP  - 516
+KW  - heritage language learning
+KW  - motivation
+KW  - emotions
+KW  - rooted L2 self
+PY  - 2017
+AB  - The present research examines the role of music and dance in motivating Gaelic language learning on Cape Breton Island (Canada). The Gaelic language, once thriving in this context, has declined in use but flourishes in both music and dance. This article presents the results of in-depth interviews (60–90 minutes) with 10 accomplished adult musicians and dancers who described in rich detail connections between traditional music and the Gaelic language. The interview texts were analyzed using Leximancer 4.0, text-mining software that performs an automatic analysis by deriving, in a grounded fashion, the key concepts in a text. Semantic and relational co-occurrence information was extracted using artificial intelligence, producing a map of interrelations among concepts. Three interrelated concepts are introduced to describe community-level motivational processes evident in the interviews: Rooted second language (L2) self, heritage passions, and heritage convictions. The rooted L2 self is defined by connections to place and speakers of the language; heritage passions reflect the development of emotional bonds, core values, and strengths; and heritage convictions capture deep-seated beliefs, attitudes, and mindsets. Elements of both Gardner's notion of integrative motivation and Dörnyei's L2 self system are evident and are considered within Ushioda's (2009) person-in-context relational model, emphasizing the connections among learners and contexts.
+ER  - 
+
+TY  - JOUR
+AU  - LANVERS, URSULA
+TI  - Contradictory Others and the Habitus of Languages: Surveying the L2 Motivation Landscape in the United Kingdom
+JO  - The Modern Language Journal
+JA  - The Modern Language Journal
+VL  - 101
+IS  - 3
+SN  - 1540-4781
+UR  - http://dx.doi.org/10.1111/modl.12410
+DO  - 10.1111/modl.12410
+SP  - 517
+EP  - 532
+KW  - language learner motivation
+KW  - language policy
+KW  - elitism in language learning
+KW  - British insularism
+KW  - resistance
+PY  - 2017
+AB  - Britain's already poor record for language learning might be exacerbated by the Global English phenomenon, in that utilitarian reasons for learning languages other than English are increasingly undermined (Lanvers, 2014; Lo Bianco, 2014). This article offers a state-of-the-art review of UK research on second language (L2) learning motivation and attitude. The introduction is dedicated to a review of language education policy and numerical evidence on the decline in language learning. Part I reviews UK motivational literature under the headings Primary school; Secondary school; University and beyond; Teachers, parents, milieu. The evaluation of the literature reveals some striking lacunae, as well as a misfit between common explanations of the UK's language learning crisis and the social divide between those who choose to learn languages and those who do not. A motivation-in-context understanding of UK language learning needs to account for the many contradictory Other influences impacting on learner motivation. Therefore, Part II presents a new motivational model, based on Higgins's Self-Discrepancy Theory, a model which includes multifaceted Others as well as Own selves, including that of resistance/rebellion against Others.
+ER  - 
+
+TY  - JOUR
+AU  - SUGITA McEOWN, MAYA
+AU  - SAWAKI, YASUYO
+AU  - HARADA, TETSUO
+TI  - Foreign Language Learning Motivation in the Japanese Context: Social and Political Influences on Self
+JO  - The Modern Language Journal
+JA  - The Modern Language Journal
+VL  - 101
+IS  - 3
+SN  - 1540-4781
+UR  - http://dx.doi.org/10.1111/modl.12411
+DO  - 10.1111/modl.12411
+SP  - 533
+EP  - 547
+KW  - L2 motivation
+KW  - foreign language education
+KW  - intrinsic motivation
+KW  - integrative orientation
+KW  - ideal L2 self
+KW  - social influences
+KW  - political influences
+PY  - 2017
+AB  - The study focuses on the role of different theories when considered together in a foreign language other than English (LOTE) context. Specifically, the study examines (a) to what extent influential second language (L2) motivational theories, when integrated, explain motivation to learn LOTEs, and (b) how the powerful status of English in Japan affects learners’ self- and identity-related motivation to learn LOTEs. Survey responses of 250 Japanese learners, who simultaneously learned a foreign LOTE and English as a required language, were analyzed using a structural equation modeling (SEM) approach. The results offer insight into how various coexisting social factors are connected to learners’ multiple self- and identity-related orientations, which in turn predict several varied academic consequences (e.g., effort, attitude, and L2 ability). We also confirmed positive and negative interplay of English- and LOTE-related orientations such that the self- and identity-related orientations of the languages will play a competing role (e.g., Csizér & Lukács, 2010). This finding highlights the importance of taking sociopolitical perspectives into consideration in a context where learners learn two languages and one has a specific political presence.
+ER  - 
+
+TY  - JOUR
+AU  - HENRY, ALASTAIR
+TI  - L2 Motivation and Multilingual Identities
+JO  - The Modern Language Journal
+JA  - The Modern Language Journal
+VL  - 101
+IS  - 3
+SN  - 1540-4781
+UR  - http://dx.doi.org/10.1111/modl.12412
+DO  - 10.1111/modl.12412
+SP  - 548
+EP  - 565
+KW  - L2 motivational self system
+KW  - complex dynamic systems
+KW  - multilingualism
+KW  - multilingual turn
+KW  - ideal multilingual self
+KW  - construal-level theory
+KW  - multilingual education
+PY  - 2017
+AB  - By tradition, L2 motivation research has a monolingual bias – the motivational systems of a learner's different languages conceptualized as separate entities rather than as cognitively interconnected. At a time when multilingualism has become a new world order (Douglas Fir Group, ) and where there is evidence of powerful identity experiences connected to speaking several languages (Pavlenko, ) this is unfortunate. In alignment with the multilingual and dynamic turns in SLA (de Bot, ; May, ), and adopting a complexity thought modeling approach (Larsen–Freeman & Cameron, ), this article explores multilingual learners’ L2 motivation. It is suggested that the motivational systems of a multilingual learner's different languages can be understood as constituting a higher-level multilingual motivational self system that is part of an ecology of interconnected and interpenetrating systems. This system contains multilingual self guides, one of which is the ideal multilingual self. Drawing on construal-level theory (Trope & Liberman, ), the manner and effects of mental representations of an ideal multilingual self are assessed. Finally, it is suggested that motivation deriving from a broader identity that encompasses but, in important ways, transcends a multilingual person's language-specific identities has a central role to play in multilingual education.
+ER  - 
+
+TY  - JOUR
+AU  - BUSSE, VERA
+TI  - Plurilingualism in Europe: Exploring Attitudes Toward English and Other European Languages Among Adolescents in Bulgaria, Germany, the Netherlands, and Spain
+JO  - The Modern Language Journal
+JA  - The Modern Language Journal
+VL  - 101
+IS  - 3
+SN  - 1540-4781
+UR  - http://dx.doi.org/10.1111/modl.12415
+DO  - 10.1111/modl.12415
+SP  - 566
+EP  - 582
+KW  - language attitudes
+KW  - L2 motivation
+KW  - ideal L2 self
+KW  - ideal plurilingual Bildungs-Selbst
+PY  - 2017
+AB  - This article explores adolescent students’ attitudes toward learning English and other European languages studied at secondary school. The study is based on 2255 qualitative responses to a survey conducted in Bulgaria, Germany, the Netherlands, and Spain. The data reveal that, although differences between countries shape the experience of foreign language learning in different ways, students in all four countries are highly aware of the global status of English. This can be a positive stimulus for students’ attitudes toward English but it can also negatively affect their attitudes toward learning other languages, as these can be perceived as less valuable. While perceived societal importance can differ from personal relevance and while identity issues, ability beliefs, contextual factors on the school and classroom level, as well as social-relational contexts (especially the relationship to the teacher) also play a role in shaping students’ attitudes, the data demonstrate that macro-contextual factors exert considerable influence. They also suggest that more attention must be paid to stimulating positive attitudes toward language diversity and to fostering plurilingual aspirations in young Europeans.
+ER  - 
+
+TY  - JOUR
+AU  - LASAGABASTER, DAVID
+TI  - Language Learning Motivation and Language Attitudes in Multilingual Spain From an International Perspective
+JO  - The Modern Language Journal
+JA  - The Modern Language Journal
+VL  - 101
+IS  - 3
+SN  - 1540-4781
+UR  - http://dx.doi.org/10.1111/modl.12414
+DO  - 10.1111/modl.12414
+SP  - 583
+EP  - 596
+KW  - language attitudes
+KW  - motivation
+KW  - minority language
+KW  - immigrant students
+KW  - English
+KW  - bilingual programs
+KW  - multilingualism
+PY  - 2017
+AB  - In Spain, more than 40 % of the population lives in officially bilingual regions in which the minority language is used as a means of instruction at school and university. In addition, the increasing importance attached to learning English has led to the proliferation of multilingual school programs in which different languages are used to teach content. With this background in mind, this article analyzes students’ motivation to learn Spanish, minority languages (Basque, Catalan, or Galician), and English (as the predominant foreign language). Because the percentage of immigrant students has steadily increased in the last 2 decades, special attention will also be paid to how they react to the multilingualism they have to face in the education system. The review of the literature will critically discuss the impact of global English on motivation to learn the other languages in contact and will examine the adequacy of current research approaches with a view to developing an agenda for needed research.
+ER  - 
+
+TY  - JOUR
+AU  - DUFF, PATRICIA A.
+TI  - Commentary: Motivation for Learning Languages Other Than English in an English-Dominant World
+JO  - The Modern Language Journal
+JA  - The Modern Language Journal
+VL  - 101
+IS  - 3
+SN  - 1540-4781
+UR  - http://dx.doi.org/10.1111/modl.12416
+DO  - 10.1111/modl.12416
+SP  - 597
+EP  - 607
+KW  - LOTE
+KW  - global English
+KW  - Chinese
+KW  - heritage language
+KW  - indigenous language
+KW  - multilingualism
+PY  - 2017
+AB  - The majority of recent research on language learning motivation has reportedly focused on English as a target language, typically in relatively homogeneous, secondary and postsecondary ‘foreign language’ settings. How applicable, then, are the theories and findings undergirding that research to our understanding of the contemporary challenges and processes involved in the learning of languages other than English (LOTEs) – whether by non-Anglophones choosing additional or alternative languages, or for Anglophones choosing to learn a different language? And how is motivation theory itself evolving in light of the emerging role of English as a global language and a greater emphasis on sociopolitical, sociocultural, economic, and ideological aspects of language learning in diverse contexts, on the one hand, and a concomitant de-emphasis of deficit-oriented notions of learners’ shortcomings or traits in acquiring or using another language, on the other? What research methods are being used? Finally, how is current motivation research taking into account multilingual experiences (i.e., involving three or more languages), rather than just the learning of one additional (foreign) language? In this commentary piece, I address questions such as these by drawing on insights from the nine articles and other related sources and also offer some of my own perspectives drawing from research on Chinese and other languages.
+ER  - 

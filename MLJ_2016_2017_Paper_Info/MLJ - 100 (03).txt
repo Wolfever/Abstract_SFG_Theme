@@ -1,0 +1,189 @@
+﻿Provider: John Wiley & Sons, Ltd
+Content:text/plain; charset="UTF-8"
+
+TY  - JOUR
+AU  - AKIYAMA, YUKA
+AU  - SAITO, KAZUYA
+TI  - Development of Comprehensibility and its Linguistic Correlates: A Longitudinal Study of Video-Mediated Telecollaboration
+JO  - The Modern Language Journal
+JA  - The Modern Language Journal
+VL  - 100
+IS  - 3
+SN  - 1540-4781
+UR  - http://dx.doi.org/10.1111/modl.12338
+DO  - 10.1111/modl.12338
+SP  - 585
+EP  - 609
+KW  - telecollaboration/eTandem
+KW  - comprehensibility
+KW  - fluency
+KW  - vocabulary
+KW  - L2 interaction
+KW  - corrective feedback
+KW  - longitudinal
+PY  - 2016
+AB  - This study examined whether 30 learners of Japanese in the United States who engaged in a semester-long video-based eTandem course made gains in global language comprehensibility, that is, ease of understanding (Derwing & Munro, 2009), and what linguistic correlates contributed to these gains. Speech excerpts from Week 2 and 8 of tandem interactions were retrieved and later assessed subjectively and objectively for global comprehensibility and its linguistic correlates (lexical appropriateness, lexical richness, speech rate, and morphological accuracy) in a pre/posttest sample design. The results revealed that, although the group made significant gains in vocabulary and some gains in grammar, improvement in overall comprehensibility was subject to considerable individual variability. According to a follow-up cluster analysis and discriminant analysis, increase in speech rate was the strongest predictor of those individuals who improved comprehensibility. The findings suggest that telecollaborative interaction may promote the development of vocabulary and, to some extent, grammar, but that significant gains in comprehensibility come mostly from the fluency trait of speech rate and may require longer interactional intervention. The findings have implications for the design of telecollaboration that supports second language learning.
+ER  - 
+
+TY  - JOUR
+AU  - DI SILVIO, FRANCESCA
+AU  - DIAO, WENHAO
+AU  - DONOVAN, ANNE
+TI  - The Development of L2 Fluency During Study Abroad: A Cross-Language Study
+JO  - The Modern Language Journal
+JA  - The Modern Language Journal
+VL  - 100
+IS  - 3
+SN  - 1540-4781
+UR  - http://dx.doi.org/10.1111/modl.12343
+DO  - 10.1111/modl.12343
+SP  - 610
+EP  - 624
+KW  - study abroad
+KW  - fluency
+KW  - Mandarin
+KW  - Russian
+KW  - Spanish
+PY  - 2016
+AB  - Examining speech samples from 75 American university students learning 1 of 3 languages (Mandarin, Russian, and Spanish), this article reports on a study of second language (L2) learners’ oral fluency development and its relationship with their gains in holistic proficiency ratings during a semester abroad. In study abroad research, there is a need for large-scale studies that systematically investigate learners’ L2 development (Kinginger, ; Rees & Klapper, ). To address this need, the project used a quantitative design involving learners of 3 languages from multiple cohorts and diverse sending and destination institutions. Results from an analysis of 600 speech samples from 150 pretest and posttest Simulated Oral Proficiency Interviews (SOPIs) showed significant increases in speech rate as well as differences between the 3 language groups. The study also investigated the relationship between holistic oral proficiency ratings and fine-tuned fluency measures and found some limited relationships between them. These findings can provide methodological suggestions for researchers interested in L2 fluency development among study abroad students and implications for foreign language educators and policy makers to promote study abroad and language learning.
+ER  - 
+
+TY  - JOUR
+AU  - VAN DER ZWAARD, ROSE
+AU  - BANNINK, ANNE
+TI  - Nonoccurrence of Negotiation of Meaning in Task-Based Synchronous Computer-Mediated Communication
+JO  - The Modern Language Journal
+JA  - The Modern Language Journal
+VL  - 100
+IS  - 3
+SN  - 1540-4781
+UR  - http://dx.doi.org/10.1111/modl.12341
+DO  - 10.1111/modl.12341
+SP  - 625
+EP  - 640
+KW  - negotiation of meaning
+KW  - task-based language teaching
+KW  - L2 learning
+KW  - video conferencing
+KW  - chat
+KW  - SCMC
+PY  - 2016
+AB  - This empirical study investigated the occurrence of meaning negotiation in an interactive synchronous computer-mediated second language (L2) environment. Sixteen dyads (N = 32) consisting of nonnative speakers (NNSs) and native speakers (NSs) of English performed 2 different tasks using videoconferencing and written chat. The data were coded and analyzed both for instances of negotiation of meaning and for instances where the NNSs did not initiate repair despite nonunderstanding. Absences of negotiation of meaning are generally excluded from detailed analysis primarily because it is difficult to establish nonunderstanding unless the participant overtly indicates it. In order to assess the effect of the nonoccurrence of negotiation of meaning on task performance and task completion, this study used 2 tasks: a culturally specific task that almost certainly would result in NNS nonunderstanding and a collaborative decision-making task that should trigger instances of negotiation of meaning. It was found that, in both tasks, instead of initiating repair sequences, NNS participants frequently did not engage in negotiation of meaning despite nonunderstanding. We conclude that disregarding nonoccurrence of negotiation of meaning in (digital) task-based language teaching may lead to misrepresenting task performance, task outcome, and task evaluation, and, beyond that, to disregarding evidence that has both empirical and theoretical consequences for the Interaction Hypothesis and, by implication, for second language acquisition.
+ER  - 
+
+TY  - JOUR
+AU  - MOSKOVSKY, CHRISTO
+AU  - ASSULAIMANI, TURKI
+AU  - RACHEVA, SILVIA
+AU  - HARKINS, JEAN
+TI  - The L2 Motivational Self System and L2 Achievement: A Study of Saudi EFL Learners
+JO  - The Modern Language Journal
+JA  - The Modern Language Journal
+VL  - 100
+IS  - 3
+SN  - 1540-4781
+UR  - http://dx.doi.org/10.1111/modl.12340
+DO  - 10.1111/modl.12340
+SP  - 641
+EP  - 654
+KW  - motivation
+KW  - L2 motivational self system
+KW  - ideal self
+KW  - ought-to self
+KW  - L2 learning experience
+KW  - intended learning efforts
+KW  - L2 proficiency
+PY  - 2016
+AB  - The research reported in this article explores the relationship between Dörnyei's (2005, 2009) Second Language Motivational Self System (L2MSS) and the L2 proficiency level of Saudi learners of English as a foreign language (EFL). Male and female participants (N = 360) responded to a questionnaire relating to the main components of L2MSS, the ideal L2 self, the ought-to L2 self, and the L2 learning experience, as well as learners’ intended learning efforts. The participants’ L2 proficiency was then measured with an EFL reading and writing test. Descriptive and inferential analyses of the collected data revealed—as expected—that the components of the L2MSS were a good predictor of the learners’ intended learning efforts. However, the study also established that in this learner population these components were not consistently correlated with L2 achievement. The findings can be treated as evidence that self-reported motivation does not always have behavioral consequences.
+ER  - 
+
+TY  - JOUR
+AU  - KIM, YOUJIN
+AU  - TRACY–VENTURA, NICOLE
+AU  - JUNG, YEONJOO
+TI  - A Measure of Proficiency or Short-Term Memory? Validation of an Elicited Imitation Test for SLA Research
+JO  - The Modern Language Journal
+JA  - The Modern Language Journal
+VL  - 100
+IS  - 3
+SN  - 1540-4781
+UR  - http://dx.doi.org/10.1111/modl.12346
+DO  - 10.1111/modl.12346
+SP  - 655
+EP  - 673
+KW  - second language proficiency
+KW  - elicited imitation
+KW  - Korean as a second language
+KW  - phonological short-term memory
+PY  - 2016
+AB  - Elicited imitation requires listeners to listen and repeat sentences as accurately as possible. In second language acquisition (SLA) research it has been used for a variety of purposes. Recently, versions of the same elicited imitation test (EIT) have been created in 6 languages with the purpose of measuring second language proficiency (Ortega et al., ; Tracy–Ventura et al., 2014; Wu & Ortega, ). The validity of these EITs has been tested, and results are promising. However, questions remain regarding the extent to which EIT performance is mediated by learners’ memory span. The current study validates a new Korean EIT following the Ortega et al. () design and, as part of that, investigates the potential role of phonological short-term memory in test performance. Korean as a second language learners (N = 66) took the following tests over 2 days: the Korean EIT, the listening section of the standardized Test of Proficiency in Korean (TOPIK), a speaking test, and a forward digit span test in their first language. Results indicated significant positive correlations between EIT scores and the various proficiency measures, but a weak and nonsignificant correlation between the EIT and forward digit span scores. Together, these results provide support for this EIT as a valid and reliable proficiency measure for use in SLA research.
+ER  - 
+
+TY  - JOUR
+AU  - TENG, LIN SOPHIE
+AU  - ZHANG, LAWRENCE JUN
+TI  - A Questionnaire-Based Validation of Multidimensional Models of Self-Regulated Learning Strategies
+JO  - The Modern Language Journal
+JA  - The Modern Language Journal
+VL  - 100
+IS  - 3
+SN  - 1540-4781
+UR  - http://dx.doi.org/10.1111/modl.12339
+DO  - 10.1111/modl.12339
+SP  - 674
+EP  - 701
+KW  - self-regulated learning (SRL)
+KW  - writing strategies for SRL
+KW  - Chinese university learners
+KW  - questionnaire validation
+KW  - language learning strategies (LLSs)
+KW  - multidimensional models of SRL
+PY  - 2016
+AB  - This study aimed to validate a newly-developed instrument, The Writing Strategies for Self-Regulated Learning (SRL) Questionnaire, with respect to its multifaceted structure of SRL strategies in English as a foreign language (EFL) writing. A total of 790 undergraduate students from 6 universities in Northeast China volunteered to be participants. Confirmatory factor analyses (CFA) through structural equation modeling (SEM) were applied to evaluate 3 hypothesized models. The results of the CFA validated a 9-factor correlated model of second language (L2) writing strategies for SRL with satisfactory psychometric characteristics. Model comparisons confirmed a hierarchical, multidimensional structure of SRL as the best model, in which self-regulation, as a higher order construct, accounted for the correlations of the 9 lower-order writing strategies, pertaining to cognitive, metacognitive, social–behavioral, and motivational regulation aspects. Multiple regression analysis revealed that 6 out of 9 SRL strategies had significant predictive effects on EFL writing proficiency. The empirical evidence lends preliminary support to a transfer of SRL theory from educational psychology to the field of L2/EFL education, particularly L2/EFL writing. Implications of these findings are discussed.
+ER  - 
+
+TY  - JOUR
+AU  - CROSSLEY, SCOTT
+AU  - KYLE, KRISTOPHER
+AU  - SALSBURY, THOMAS
+TI  - A Usage-Based Investigation of L2 Lexical Acquisition: The Role of Input and Output
+JO  - The Modern Language Journal
+JA  - The Modern Language Journal
+VL  - 100
+IS  - 3
+SN  - 1540-4781
+UR  - http://dx.doi.org/10.1111/modl.12344
+DO  - 10.1111/modl.12344
+SP  - 702
+EP  - 715
+KW  - acquisition
+KW  - naturalistic
+KW  - corpus linguistics
+KW  - input–output
+KW  - proficiency
+KW  - vocabulary
+PY  - 2016
+AB  - This study investigates relations between second language (L2) lexical input and output in terms of word information properties (i.e., lexical salience; Ellis, 2006a). The data for this study come from a longitudinal corpus of naturalistic spoken data between L2 learners and first language (L1) interlocutors collected over a year's time. The corpus was analyzed using word information properties related to concreteness, familiarity, and meaningfulness to examine word repetitions between input and output, correlations between the input and the output, linear trends over time, and whether lexical properties in the output were predictive of growth in TOEFL scores. The results indicate that L2 learners are more likely to repeat word types found in L1 input and that L1 interlocutors and L2 learners follow similar linear trends over time such that words with lower concreteness, lower familiarity, and lower meaningfulness were produced over the course of the study in both the input and output. A linear mixed model analysis showed that decreases in concreteness scores explained significant gains in TOEFL scores over time. The findings from the study indicate strong associations between L2 input and output and provide evidence linking development in word information properties to development in academic English proficiency.
+ER  - 
+
+TY  - JOUR
+AU  - KIM, HYUNWOO
+AU  - RAH, YANGON
+TI  - Effects of Verb Semantics and Proficiency in Second Language Use of Constructional Knowledge
+JO  - The Modern Language Journal
+JA  - The Modern Language Journal
+VL  - 100
+IS  - 3
+SN  - 1540-4781
+UR  - http://dx.doi.org/10.1111/modl.12345
+DO  - 10.1111/modl.12345
+SP  - 716
+EP  - 731
+KW  - constructional knowledge
+KW  - second language development
+KW  - sentence sorting
+KW  - light verbs
+KW  - corpus analysis
+PY  - 2016
+AB  - This study investigates the influence of the semantic heaviness of verbs (i.e., heavy or light verbs) and language proficiency on second language (L2) learners’ use of constructional information in a sentence-sorting task and a corpus analysis. Previous studies employing a sentence-sorting task demonstrated that advanced L2 learners sorted English sentences according to argument structure constructions rather than lexical verbs. However, these studies collapsed both heavy (e.g., cut, throw) and light (e.g., get, take) verbs into a single variable, blurring the effects of the semantic heaviness of the verbs. The present study designed a sentence-sorting task involving heavy and light verbs as separate variables and administered it with advanced and intermediate adult learners of English (Experiment 1). Results showed that while advanced learners showed construction-dominant sortings regardless of the heaviness of a verb, intermediate learners produced construction-based sortings only in the light verb condition. A corpus analysis of learner essays (Experiment 2) revealed that intermediate learners relied on light verbs in producing constructions more strongly than advanced learners and native speakers. These findings suggest that L2 proficiency modulates the degree to which the semantic heaviness of a verb affects learners’ use of constructional knowledge in sorting and producing English sentences.
+ER  - 
